@@ -1,0 +1,10163 @@
+/*min width 1920*/
+@media (min-width: 1920px) {
+    .listings-main .pricing {
+        bottom: 65px !important;
+    }
+
+    .listing-item-content h3 {
+        color: #fff;
+        font-size: 23px;
+    }
+
+    .listing-item-container.list-layout .listing-item-inner span {
+        font-size: 17px;
+    }
+
+    .listings-main .location-detail ul li.list-inline-item {
+
+        font-size: 16px;
+    }
+
+    .listings-main .listing-item-container.list-layout .listing-item-inner p {
+        font-size: 19px;
+        line-height: 19px;
+    }
+
+    .listings-main h4 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .messages-headline h4 {
+        width: 16.7%;
+    }
+
+    .message-action {
+        width: 48.2%;
+    }
+
+    .message-reply {
+        width: 56%;
+
+    }
+
+}
+
+/*min width 1700*/
+@media (min-width: 1700px) {
+    .message-reply {
+        width: 50%;
+
+    }
+}
+
+/*min width 1600*/
+@media (min-width: 1600px) {
+    .listings-main .pricing {
+        bottom: 12px !important;
+
+    }
+
+    .message-action {
+        width: 38.3%;
+    }
+
+    .message-reply {
+        width: 48%;
+
+    }
+}
+
+/*min width 1500*/
+@media (min-width: 1500px) {
+    .fs-inner-container {
+        width: 50%;
+    }
+
+    .fs-inner-container.content {
+        width: 50%;
+    }
+
+
+    .message-action {
+        width: 34.2%;
+    }
+
+    .message-reply {
+        width: 44%;
+
+    }
+}
+
+/*max width 1920*/
+@media (max-width: 1920px) {
+
+
+    .message-action {
+        width: 48.5%;
+    }
+
+}
+
+/*max width 1600*/
+@media (max-width: 1600px) {
+
+
+    .message-action {
+        width: 38.5%;
+    }
+}
+
+/*max width 1500*/
+@media (max-width: 1500px) {
+
+
+    .message-action {
+        width: 34.5%;
+    }
+}
+
+/*min width 1440*/
+@media (min-width: 1440px) {
+
+
+    .message-action {
+        width: 31.5%;
+
+    }
+
+    .message-reply {
+        width: 44%;
+
+    }
+
+}
+
+/*max width 1400*/
+@media (max-width: 1400px) {
+
+
+    .message-action {
+        width: 29.5%;
+    }
+}
+
+/*max width 1400*/
+@media (max-width: 1366px) {
+
+
+    .message-action {
+        width: 27.5%;
+    }
+}
+
+/*min width 1280*/
+@media (min-width: 1280px) {
+    .slick-prev {
+        left: 46px;
+        transform: translate3d(-90px, -50%, 0);
+    }
+
+    .slick-next {
+        right: 48px;
+        transform: translate3d(90px, -50%, 0);
+    }
+
+    table.table.pricing-table {
+
+        max-width: 1110px;
+
+    }
+
+    div#more_filters .modal-body {
+        max-height: 400px;
+
+
+    }
+}
+
+/*max width 1280*/
+@media only screen and (max-width: 1280px) {
+
+
+    .message-action {
+        width: 22.2%;
+    }
+
+    .upload-profile-photo {
+        margin-top: 21px;
+    }
+
+    .message-reply {
+        width: 41%;
+    }
+
+    section.s-hero-banner .wrap .inner {
+        transform: translateX(88px);
+        margin-top: 50px;
+    }
+    section.s-hero-banner:before {
+        bottom: 30px;
+        transform: translateX(93px);
+    }
+}
+
+/*max width 1199*/
+@media only screen and (max-width: 1199px) {
+    .our-partners ul {
+        width: 80%;
+    }
+
+    .check_card_head h6 {
+
+        font-size: 15px;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+
+        width: 90%;
+    }
+
+    div#overview {
+        width: 95%;
+    }
+
+    .room-bathroom-number .form-group {
+
+        width: 42%;
+    }
+
+    .room-bathroom-number .form-group:last-child {
+
+        right: -54px;
+    }
+
+    .our-price-card-list .list-star br {
+        display: none;
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 50px;
+        line-height: 56px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 34px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 34px;
+    }
+
+    .black-card .list-star h6 {
+        padding-left: 0;
+    }
+
+    .green-card .list-star h6 {
+        padding-left: 0;
+    }
+
+    .black-card .list-star h6:after {
+        top: 51px;
+        padding-left: 20px;
+    }
+
+    .green-card .list-star h6:after {
+        padding-left: 20px;
+    }
+
+    .green-card ul li h6 br {
+        display: none;
+    }
+
+    .additional_services h3 {
+
+        font-size: 34px;
+    }
+
+    .hmo-btn a {
+        width: 18%;
+    }
+
+    .black-lives-inner h2 {
+        width: 125%;
+    }
+
+    .black-lives-inner p {
+
+        width: 67%;
+    }
+
+    .number-counter {
+
+        width: 45%;
+    }
+
+    .searh-preview-card .check_card {
+        width: 88%;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 91%;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 55%;
+    }
+
+    .studio-inner {
+        padding: 66px 50px 75px;
+    }
+
+    .calculator-cards .col-md-4 {
+        margin: 0 15.5px;
+    }
+
+    .tenants-cities-services .col-md-4 {
+        /*margin: 0 15.5px;*/
+    }
+
+    .banner-cards-inner {
+        margin: 0 15px;
+        margin-top: -115px;
+        margin-bottom: 50px;
+    }
+
+    table.table.pricing-table {
+
+        max-width: 930px;
+
+    }
+
+    .hmo-services-inner p.hmo-description {
+
+        width: 74%;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 36px;
+    }
+
+    .property-management-covered p {
+        font-size: 15px;
+    }
+
+    .property-management-covered ul li {
+        font-size: 15px;
+    }
+
+    .property-management-payments p {
+
+        font-size: 15px;
+    }
+
+    .other-agents-modal {
+        max-width: 70%;
+        top: 0;
+    }
+
+    .property-management-full-services .table thead th {
+        font-size: 19px;
+
+    }
+
+    .property-management-full-services .table tbody th {
+
+        width: 41%;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 70px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 63px;
+    }
+
+    .savings-calculator-inner {
+        padding: 40px 60px;
+    }
+
+    .message-action {
+        width: 16.6%;
+    }
+
+
+    .messages-container-inner .message-content {
+        padding: 30px 40px;
+
+    }
+
+    .dashboard-nav ul li span.nav-tag.messages {
+        padding: 0 !important;
+    }
+
+    .upload-profile-photo {
+        margin-top: 6px;
+    }
+
+
+    .saved-property-list li {
+        width: 48.8%;
+    }
+
+    section.landlord-banner h3 {
+        font-size: 46px;
+    }
+
+    section.landord-pricing-cards h3 {
+        font-size: 25px;
+    }
+
+    .let-home-container {
+        padding: 0 25px;
+    }
+
+    .community-stories-media-cover-inner {
+
+        height: 225px;
+    }
+
+    section.community-stories-single-content h2 {
+        font-size: 34px;
+        margin: 0 0 30px;
+    }
+
+    section.community-stories-single-content p.quote {
+        font-size: 17px;
+    }
+
+    .community-stories-single-content-inner {
+        margin: 0 0;
+    }
+
+    ul#content-slider {
+        height: 395px !important;
+    }
+
+    .preview-img-wrap {
+        height: 395px !important;
+    }
+
+    .searh-preview-card .check_card_guest h5 {
+        margin-left: 10px;
+    }
+
+    .searh-preview-card .check_card_guest p {
+        margin-left: 10px;
+    }
+
+    .row.upgrade-card-row {
+        width: 80%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 100%;
+
+    }
+
+    .listings-main .fs-inner-container {
+        width: 45%;
+    }
+
+    .listings-main .fs-inner-container.content {
+        width: 55%;
+
+    }
+
+    .send-message-inner {
+        width: 68%;
+    }
+
+    .tenant-inquiries-inner {
+        width: 92%;
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 60%;
+    }
+
+    .message-reply {
+        width: 37%;
+    }
+
+    .steps li {
+        width: 20%;
+    }
+
+    .instarent-checkout {
+        width: 70%;
+    }
+
+    .instarent-banner h1 {
+        font-size: 43px;
+    }
+
+    .text-slide .slide {
+        font-size: 43px;
+    }
+
+    .instarent-banner {
+        padding: 125px 0;
+    }
+
+    .booking-info .wrap {
+        width: 80%;
+    }
+
+    .booking-info .rent-details {
+        width: 80%;
+    }
+
+    .insta-breadcrumb ul li .caption span:before {
+        font-size: 15px;
+    }
+
+    .insta-breadcrumb ul li {
+        font-size: 13px;
+    }
+
+    .holding-deposit-landlord .Congrat-div .wrap h6 {
+        font-size: 22px;
+    }
+
+    .Congrat-div p {
+        font-size: 15px;
+    }
+
+    .holding-deposit-landlord .inner h3 {
+        font-size: 19px;
+    }
+
+    .holding-deposit-landlord .table tr td span {
+        font-size: 15px;
+    }
+
+    .holding-deposit-landlord .table tr td {
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord a.btn.edit {
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord .housemates a.btn.btn-send-message {
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord .housemates a.btn.remove {
+        font-size: 14px;
+    }
+
+    .rent-now-references table.table.references-table {
+        width: 66%;
+    }
+
+    .rent-now-references h2 {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+
+    .option-modal .modal-dialog {
+        max-width: 55%;
+    }
+
+    .referencetenants .referencing-options h3 {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+
+    .unverified-emails .inner .table tbody tr td span.name {
+        font-size: 15px;
+    }
+
+    .content-wrap.services_content .container {
+        max-width: 97%;
+    }
+
+    .holding-deposit-landlord .landlord_option .icon {
+        margin-right: 10px;
+    }
+
+    .holding-deposit-landlord .landlord_option .options ul li {
+        padding: 15px 15px;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord h3 {
+        font-size: 20px;
+    }
+
+    .rent-payment-options .nav-tabs .nav-item {
+        width: 46.5%;
+    }
+
+    .services-nav ul li a {
+        margin-right: 22px;
+        font-size: 13px;
+    }
+    section.s-hero-banner .wrap .inner {
+        transform: translateX(135px);
+        margin-top: 50px;
+    }
+    section.s-hero-banner:before {
+        bottom: 30px;
+        transform: translateX(135px);
+    }
+    section.main-s-cards .card-item h5 {
+        font-size: 17px;
+    }
+    section.main-s-cards .card-item h3 {
+        font-size: 21px;
+    }
+
+}
+
+/*max width 1024*/
+@media only screen and (max-width: 1024px) {
+    .heading-location h2 {
+        font-size: 22px;
+    }
+
+    .heading-location h4 {
+        font-size: 16px;
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 125px;
+
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 46px;
+        line-height: 50px;
+    }
+
+    .hero-banner p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    section.our-service-steps .heading-text.text-center {
+        margin: 20px 0 50px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 32px;
+    }
+
+    section.our-service-steps .card .card-body p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 32px;
+    }
+
+    .additional_services h3 {
+
+        font-size: 32px;
+    }
+
+    .hmo-services h3 {
+        font-size: 34px;
+    }
+
+    .hmo-services-inner p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .hmo-price h4 {
+        font-size: 22px;
+    }
+
+    .hmo-price .price-body p {
+        font-size: 13px;
+    }
+
+
+    .wizard-content .wizard > .content {
+        width: 60%;
+    }
+
+    .slick-prev {
+        left: 63px;
+        transform: translate3d(-90px, -50%, 0);
+    }
+
+    .slick-next {
+        right: 66px;
+        transform: translate3d(90px, -50%, 0);
+    }
+
+    .hero-banner h1 {
+        font-size: 38px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 68px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 61px;
+    }
+
+    .property-management-full-services .table thead th {
+        font-size: 18px;
+    }
+
+    .other-agents-modal {
+        max-width: 75%;
+    }
+
+    .messages-container-inner .messages-inbox ul {
+        width: 315px;
+    }
+
+    .message-action {
+        width: 18.7%;
+    }
+
+    .messages-container-inner .messages-inbox {
+        max-width: 285px;
+    }
+
+
+
+    .saved-property-list li {
+        width: 100%;
+    }
+
+    section.landlord-banner h3 {
+        font-size: 44px;
+    }
+
+    section.community-stories-single-content h2 {
+        font-size: 32px;
+        margin: 0 0 25px;
+    }
+
+    .preview-publish-box {
+        padding: 25px 21px;
+    }
+
+    div#more_filters .modal-dialog {
+        max-width: 70%;
+    }
+
+    .tenant-inquiries-inner {
+        width: 100%;
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 65%;
+    }
+
+    .how-its-work-step .col-left {
+        width: 50%;
+        padding-right: 29px;
+        padding-bottom: 32px;
+    }
+
+    .how-its-work-step .col-right {
+        padding-left: 40px;;
+        width: 70%;
+    }
+
+    .Congrat-div h6 {
+        margin: 0;
+        font-size: 19px;
+    }
+
+    .instarent-propery-details .inner .rent-now-btn a {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .instarent-propery-details .inner .image {
+        width: 100px;
+    }
+
+    .holding-deposit-view h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .holding-deposit-view .guarantors_tenants a {
+        padding: 8px 20px;
+    }
+
+    .deposit-placed h6 {
+        padding-left: 23px;
+        font-size: 15px;
+    }
+
+    .deposit-placed h6:before {
+        font-size: 17px;
+    }
+
+    .deposit-placed p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    section.cancel-deposit h3 {
+        font-size: 22px;
+    }
+
+    section.cancel-deposit label:before {
+        top: 3px;
+        width: 19px;
+        height: 19px;
+    }
+
+    section.cancel-deposit input[type=checkbox]:checked + label:after {
+        font-size: 13px;
+    }
+
+    section.cancel-deposit .btn.cancel-btn {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+
+    .holding-deposit-view .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(22px);
+    }
+
+    section.landlord-trust h3 {
+        font-size: 30px;
+    }
+
+    .landlord-trust .start-saving {
+        width: 90%;
+    }
+
+    section.smart-management h2 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+
+    section.smart-management p {
+        font-size: 30px;
+    }
+
+    section.landlord-servises-card .inner {
+        width: 95%;
+    }
+
+    .main-search-container {
+        height: 450px;
+    }
+
+    .main-search-input {
+        width: 92%;
+    }
+
+    section.landlord-title {
+        padding: 55px 0 40px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 38px;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 28px;
+        margin-top: 5px;
+    }
+
+    section.smart-management h2 {
+        font-size: 46px;
+        margin-bottom: 13px;
+    }
+
+    section.smart-management p {
+        font-size: 28px;
+    }
+
+    section.tenants-main .search-home {
+        height: 400px;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 38px;
+    }
+
+    .landlord-options .btn {
+        font-size: 13px;
+    }
+
+    .landlord-options .btn:before {
+        font-size: 12px;
+        top: 11px;
+    }
+
+    .landlord-options h3 {
+        font-size: 26px;
+    }
+
+    .application-for h3 {
+        font-size: 18px
+    }
+
+    .application-for p {
+        font-size: 15px;
+    }
+
+    .holding-deposit-landlord a.btn.edit {
+        font-size: 13px;
+    }
+
+    .application-for img {
+        width: 24px;
+    }
+
+    .holding-deposit-landlord .guarantors.pro-guarantor h3 {
+        font-size: 19px;
+    }
+
+    .rent-now-references h2 {
+        margin-bottom: 0;
+        font-size: 28px;
+    }
+
+    .rent-now-references table.table.references-table {
+        width: 68%;
+    }
+
+    .services-nav ul li {
+        min-width: 11.1%;
+        text-align: center;
+    }
+
+    .holding-deposit-landlord .applicant ul li {
+        width: 273px;
+    }
+
+    .holding-deposit-landlord .applicant ul li p {
+        padding: 0 40px;
+    }
+
+    .holding-deposit-landlord .landlord_option .options ul li {
+        padding: 13px 13px;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord .landlord_option .icon {
+        margin-right: 10px;
+        width: 40px;
+    }
+
+    .holding-deposit-landlord .landlord_option .options ul li:before {
+        top: 20px;
+    }
+
+    .services-nav ul li a {
+        margin-right: 18px;
+    }
+    .rent-fullpayment .side-bar {
+        display: none;
+    }
+    .tb-view{
+        display: block;
+    }
+    section.s-hero-banner .wrap .inner {
+        transform: translateX(50px);
+
+    }
+    section.s-hero-banner:before {
+        transform: translateX(50px);
+    }
+
+}
+
+/*max width 1024 and min 1024px*/
+@media screen and (max-width: 1024px) and (min-width: 1024px) {
+    .my-listings .list-box-listing-content {
+        padding-left: 15px;
+    }
+
+    .my-listings .dashboard-list-box ul li {
+        padding: 20px 18px;
+    }
+
+    .my-listings .dashboard-list-box ul ul li {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .dashboard-content.my-listings {
+        padding: 40px 41px;
+        margin-left: 252px;
+    }
+
+}
+
+/*max width 992*/
+@media only screen and (max-width: 992px) {
+    .footer-as-seen-in ul.lSPager.lSpg {
+        display: block;
+    }
+    section.h-s-cards .plans>ul {
+        display: none;
+    }
+    section.h-s-cards .plans>.my-slider .plan-card {
+        margin-right: 13px;
+        margin-left: 5px;
+        box-shadow: 2px 4px 19px 2px rgb(0 0 0 / 16%);
+        border-radius: 0 0 1rem 1rem;
+    }
+
+    section.h-s-cards .plans>.my-slider .plan-card .feature-list li span:last-child {
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+    }
+    section.h-s-cards .plans>.my-slider .plan-card .feature-list li span:first-child {
+        display: initial;
+    }
+    section.h-s-cards .plans>.my-slider .plan-card .feature-list li:nth-child(odd) {
+        background: white;
+    }
+}
+
+/*max width 991*/
+@media only screen and (max-width: 991px) {
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 25px;
+    }
+
+    .carousel-item.slick-slide.slick-active {
+        width: 296px !important;
+    }
+
+    .logo-slick-carousel .slick-prev, .logo-slick-carousel .slick-next, .simple-slick-carousel .slick-prev, .simple-slick-carousel .slick-next {
+        display: none !important;
+
+    }
+
+    .new-listing-item-details {
+        padding-right: 10px;
+    }
+
+    .new-listing-item-details a {
+        width: 55%;
+    }
+
+    .new-listing-item-details p {
+        font-size: 13px;
+    }
+
+    .new-listing-item-details h3 {
+        font-size: 18px;
+    }
+
+    .listing-item-content {
+        padding: 0 20px;
+        padding-right: 55px;
+    }
+
+    .listing-item-content h3 {
+        font-size: 18px;
+    }
+
+    .listing-item-content span {
+        font-size: 14px;
+    }
+
+    .savings-calculator .content.text-black {
+        padding-left: 40px;
+        padding-right: 30px;
+    }
+
+    .main-search-inner select {
+        color: #888;
+        height: 29px;
+        background: transparent;
+    }
+
+    .main-search-input button.button {
+        height: 40px;
+    }
+
+    .main-search-input button.button {
+        margin-top: 6px;
+        font-size: 15px;
+        padding: 0 25px;
+    }
+
+    .main-search-container {
+        height: 400px;
+    }
+
+    h2.headline {
+        font-size: 30px;
+        line-height: 36px;
+        margin: 0 0 0 0
+    }
+
+
+    .savings-calculator-head h3 {
+        font-size: 26px;
+    }
+
+    .savings-calculator-head {
+        padding: 15px 20px 28px 20px;
+    }
+
+    #navigation.style-1 ul li a {
+        transition: 0.4s;
+        border-radius: 50px;
+        font-size: 14px;
+    }
+
+    #login-navigation #login {
+        height: 36px !important;
+    }
+
+    .right-side #login-navigation {
+        margin-top: 4px;
+    }
+
+    .main-search-input-item input {
+        width: 100%;
+    }
+
+    .chosen-container-single .chosen-single div:after {
+        right: -20px;
+    }
+
+    .savings-calculator .content p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .savings-calculator .content h6 {
+        font-size: 17px;
+    }
+
+    .our-partners ul {
+        width: 75%;
+    }
+
+    .our-partners ul li {
+        padding-right: 25px;
+    }
+
+    h3.headline {
+        font-size: 26px;
+    }
+
+    .price-card-wrap .card-body h5 {
+        font-size: 18px;
+    }
+
+    .price-card-wrap .card-body h4 {
+        font-size: 23px;
+    }
+
+    .price-cards .card .card-footer a {
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .footer__top li img {
+        width: 150px !important;
+    }
+
+    div#footer li a {
+        font-size: 14px;
+    }
+
+    #footer p.useful-links {
+        font-size: 15px;
+    }
+
+    #footer ul li.list-inline-item {
+        padding-right: 5px;
+    }
+
+    .total-savings {
+        font-size: 18px;
+    }
+
+    #range_agent_total {
+        font-size: 18px;
+    }
+
+    .savings-calculator .card h3 {
+        font-size: 17px;
+    }
+
+    .savings-calculator .card table tr td {
+        font-size: 17px;
+    }
+
+    #range_head {
+        font-size: 17px;
+    }
+
+
+    .black-card .list-star h6:after {
+        top: 35px;
+        padding-left: 70px;
+    }
+
+    .card.text-center.border-green.border-bold {
+        margin-top: 25px;
+    }
+
+    .green-card ul li h6 br {
+        display: block;
+    }
+
+    .our-price-card-list .list-star br {
+        display: block;
+    }
+
+    .green-card .list-star h6 {
+        padding-left: 20px;
+    }
+
+    .green-card .list-star h6:after {
+        padding-left: 50px;
+        top: 49px;
+    }
+
+    .black-card .list-star h6 {
+        padding-left: 20px;
+    }
+
+    .hero-banner p {
+        font-size: 16px;
+
+    }
+
+    .services_card_title h5 {
+        font-size: 19px;
+    }
+
+    .services_card_price h5 {
+        font-size: 19px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 30px;
+    }
+
+    .black-lives-inner p {
+
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    section.our-service-steps .card-head h5 {
+        font-size: 19px;
+    }
+
+    section.our-service-steps .card i.fa {
+        font-size: 24px;
+    }
+
+    section.our-service-steps .card .card-body {
+        padding: 10px 0 0;
+    }
+
+    .our-price-cards .col-md-6 {
+        margin: 0 auto;
+    }
+
+    .panel-dropdown {
+        position: relative;
+        display: inline-block;
+        width: auto;
+    }
+
+    .panel-dropdown a, .fullwidth-filters .sort-by .chosen-container-single .chosen-single {
+        background: transparent;
+    }
+
+    .studio-inner {
+        padding: 72px 50px 69px;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 70%;
+    }
+
+    .main-search-inner h3.font-family-1 {
+        font-size: 34px;
+
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 29px;
+
+    }
+
+    .tenants-cities-card-text h2 {
+        font-size: 29px !important;
+    }
+
+    .take-tour-services-wrap h2 {
+
+        font-size: 30px;
+    }
+
+    table.table.pricing-table {
+        max-width: 940px;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 69%;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 66px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 59px;
+    }
+
+    section.hidden-fee img {
+
+        position: relative;
+        left: 35px;
+    }
+
+    .other-agents-modal {
+        max-width: 79%;
+    }
+
+    .property-management-covered ul {
+        padding-left: 0;
+        margin-top: 13px;
+    }
+
+    .property-management-covered a {
+        padding-left: 0;
+    }
+
+    .property-management-payments {
+        padding: 50px 0 0;
+    }
+
+    .ready-to-get-started-btn a {
+        padding: 18px 22px;
+
+    }
+
+    .additional_services_inner .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 64%;
+        flex: 0 0 64%;
+        max-width: 64%;
+        margin: 0 auto;
+    }
+
+    .follow-us-col {
+
+        padding-left: 37px !important;
+    }
+
+    .services-nav ul li a {
+
+        margin-right: 39px;
+    }
+
+    .services-back {
+        display: block;
+    }
+
+    section.services-nav {
+        display: none;
+    }
+
+    .messages-container-inner .message-content {
+        padding: 30px 168px;
+        height: 100%;
+
+    }
+
+    .letting-options {
+        display: none;
+    }
+
+    .messages-container-inner .messages-inbox ul {
+        width: 101.7%;
+        margin: 0 auto;
+    }
+
+
+    .single-message .messages-headline h4.user_name {
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+        width: 75% !important;
+
+    }
+
+    .single-message .messages-headline h4 {
+        width: auto !important;
+        display: inline-block;
+    }
+
+    .messages .messages-headline .message-action {
+        display: none;
+    }
+
+    .messages .messages-headline h4 {
+        border: 0;
+        width: 42%;
+    }
+
+    .messages .messages-headline h4.details {
+        display: none;
+    }
+
+    .messages .messages-container-inner .message-by-headline span {
+        right: 50px;
+    }
+
+
+    .header-account .container-fluid {
+        padding: 0 50px;
+    }
+
+
+
+    .profile-edit .dashboard-list-box-static {
+        margin-bottom: 0;
+    }
+
+
+    .live-chat-right {
+        padding: 37.5px 35px;
+    }
+
+    .messages .dashboard-content {
+        height: 100%;
+        width: 100%;
+    }
+
+    .message-details-img img {
+        width: 100%;
+    }
+
+    .message-container-inner .messages-inbox {
+        display: none;
+    }
+
+    .message-container-inner .message-content {
+        width: 65%;
+        margin: 0 auto;
+        margin-top: 25px;
+        margin-bottom: 50px;
+    }
+
+    .property-details-mobile {
+        display: block;
+
+    }
+
+    form#send-message-from-chat {
+        display: flex;
+        width: 70%;
+        padding: 15px 21px 5px;
+        margin: 0 auto;
+    }
+
+    .message-reply {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: white;
+        /*box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.12);*/
+    }
+
+    section.landlord-banner h3 {
+        font-size: 42px;
+    }
+
+    section.everything-you-need h2 {
+        text-align: center;
+    }
+
+    .ready-to-get-started-btn {
+        text-align: center;
+    }
+
+    .everything-you-need .additional_services_inner .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 64%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .community-stories-media-cover-inner {
+        height: 251px;
+    }
+
+    section.community-stories-single-content h2 {
+        font-size: 28px;
+        margin: 0 0 20px;
+    }
+
+    .related-stories h4 {
+        font-size: 21px;
+    }
+
+    section.community-stories-content h3 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    .main-silder .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        order: 2;
+    }
+
+    .main-silder .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .preview-publish-box-col {
+        padding-left: 15px;
+        margin-bottom: 15px;
+        order: 1;
+    }
+
+    h4.viewing-request {
+        display: none;
+    }
+
+    .letting-options-mobile {
+        display: block;
+        height: auto;
+        max-width: 100%;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 15px;
+        padding: 20px 0;
+        border: 1px solid #EBEBEB;
+        border-radius: 4px;
+        background-color: #fff;
+    }
+
+    .letting-options-btn a {
+        margin: 0 5px 0;
+    }
+
+    .letting-options-mobile {
+        display: block;
+    }
+
+    .messages .messages-headline h4 span {
+        display: none;
+    }
+
+    .div-fixed {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 999999;
+        background: white;
+    }
+
+    .messages-container-inner {
+        margin-top: 166px;
+    }
+
+    button.btn.chat-menu-btn {
+        display: block;
+    }
+
+    .listings-main .fs-inner-container {
+        width: 100%;
+        padding: 0;
+        transition: 0.6s;
+    }
+
+    .listings-main .fs-inner-container.content {
+        width: 100%;
+        margin-top: 45vh;
+        z-index: 99;
+        bottom: 0;
+        top: unset;
+        border-radius: 25px 25px 0 0;
+        box-shadow: 0 0 10px -3px;
+        transition: 0.6s;
+    }
+
+    .listings-main .fs-inner-container.content .fs-content {
+        padding-top: 25px;
+
+    }
+
+    button.btn.mob-filter-btn {
+        display: initial;
+    }
+
+    .listings-main .panel-dropdown {
+        display: none;
+    }
+
+    .fs-container section.search {
+        top: 0;
+        z-index: 999;
+        border-bottom: 1px solid #eaeaea8c;
+    }
+
+    .header-search {
+        display: none;
+    }
+
+    .fs-container section.search a.back-home {
+        display: initial;
+    }
+
+    .fs-container section.search .input-with-icon.location {
+        width: 55%;
+        margin: 0 auto;
+    }
+
+    .search-map {
+        box-shadow: none !important;
+        border-radius: 0;
+    }
+
+    .panel-dropdown.sorted-by-btn {
+        display: initial;
+        max-width: 170px;
+    }
+
+    .search-location .sorted-by-btn {
+        display: none;
+    }
+
+    section.listings-container .search-location {
+        text-align: center;
+    }
+
+    .map-list-btn {
+        display: block;
+    }
+
+    div#mobile-filter .rangeslider__handle {
+        top: 3px !important;
+    }
+
+    .drag-icon {
+        display: block;
+    }
+
+    .distance-filter {
+        border-bottom: 1px solid #E2E2E2;
+    }
+
+    .rent-rang-silder-mob {
+        border-bottom: 1px solid #E2E2E2;
+        margin-bottom: 10px;
+        padding-bottom: 15px;
+    }
+
+    .bedrooms-filter {
+        border-bottom: 1px solid #E2E2E2;
+        margin-bottom: 20px;
+    }
+
+    div#mobile-filter .features {
+        border-bottom: 1px solid #E2E2E2;
+        padding-bottom: 15px;
+        margin: 0 0 15px 0
+    }
+
+    div#mobile-filter .features .col-12 {
+        padding: 0;
+    }
+
+    div#mobile-filter .features .col-sm-6.col-md-6 {
+        padding: 0;
+    }
+
+    .sorted-by-btn label {
+        left: 4px;
+        top: 42px;
+    }
+
+    div#all_mob_furnishing {
+        border-bottom: 1px solid #E2E2E2;
+        padding-bottom: 15px;
+        margin: 0 0 15px;
+    }
+
+    div#all_mob_furnishing .col-12 {
+        padding: 0;
+    }
+
+    div#all_mob_furnishing .col-sm-6.col-md-6 {
+        padding: 0;
+    }
+
+    .sorted-by-btn {
+        padding-bottom: 6px;
+    }
+
+    .advance-filters .panel-dropdown-content.checkboxes {
+        padding: 20px 0 0;
+    }
+
+    .listings-main .showing-results {
+        border-bottom: 1px solid #EBEBEB;
+        padding-bottom: 20px;
+        margin-bottom: 5px;
+    }
+
+    .location-heading h2 {
+        display: none;
+    }
+
+    .instrent-box {
+        display: block;
+    }
+
+    .tenant-inquiries-inner .order-two {
+        order: 2;
+    }
+
+    .tenant-inquiries-inner .sidebar {
+        margin-bottom: 20px;
+    }
+
+    section.tenant-inquiries .title {
+        margin-bottom: 0;
+    }
+
+    .tenant-inquiries .property-details {
+        padding: 20px 0 40px;
+        border-bottom: 1px solid #EBEBEB;
+        margin-bottom: 15px;
+    }
+
+    .my-listings .table > thead > tr > th {
+        display: none;
+    }
+
+    .my-listings .table > thead > tr > th:first-child {
+        display: table-cell;
+    }
+
+    .my-listings .table > tbody > tr > td {
+        display: none;
+    }
+
+    .my-listings .table > tbody > tr > td:first-child {
+        display: table-cell;
+    }
+
+    .my-listings .table > tbody > tr > td:nth-child(2) {
+        display: table-cell;
+        width: auto !important;
+    }
+
+    .my-listings .table > tbody > tr > td.next {
+        display: table-cell;
+        text-align: right;
+        padding-right: 20px;
+    }
+
+    .my-listings .listnav .my-listing-img {
+        width: 200px;
+        height: 200px;
+        margin-left: 20px;
+        margin-right: 15px
+    }
+
+    .my-listings .listnav .my-listing-img a {
+        padding: 0;
+    }
+
+    .my-listings a.enquire-btn {
+        color: black;
+        padding: 0;
+        text-align: left;
+        margin: 0;
+    }
+
+    .my-listings a.enquire-btn .fa {
+        color: black;
+        float: right;
+        font-size: 24px;
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 70%;
+    }
+
+    .header-account.header-mobile {
+        display: none;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 55%;
+    }
+
+    #titlebar h1, #titlebar h2 {
+        font-size: 28px;
+    }
+
+    .steps li {
+        width: 23%;
+    }
+
+    .instarent-content-wrap .order-two {
+        order: 2;
+    }
+
+    .instarent-content-wrap .col-lg-4.pl-0 {
+        padding-left: 15px !important;
+    }
+
+    .instarent-side-bar .property {
+        display: flex;
+    }
+
+    .instarent-side-bar .property .property-image {
+        width: 400px;
+        margin-right: 15px
+    }
+
+    .instarent-side-bar img {
+        height: 160px;
+        border-radius: 8px;
+        margin: 15px 0 15px 15px;
+    }
+
+    .instarent-side-bar .property-details {
+        margin-top: 15px;
+        width: 70%;
+    }
+
+    .instarent-content-inners {
+        width: 100%;
+    }
+
+    .instarent-side-bar .payment-details {
+        border-radius: 2px;
+        margin-top: 20px;
+    }
+
+    .instarent-banner h1 {
+        font-size: 40px;
+    }
+
+    .text-slide .slide {
+        font-size: 40px;
+    }
+
+    .instarent-banner {
+        padding: 100px 0 100px;
+    }
+
+    section.how-its-work {
+        margin: 30px 0 10px;
+    }
+
+    section.how-its-work h2 {
+        font-size: 28px;
+    }
+
+    .booking-info .wrap {
+        width: 90%;
+    }
+
+    .booking-info .rent-details {
+        width: 90%;
+    }
+
+    .booking-info {
+        margin: 0 0 30px;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property {
+        border-radius: 0;
+        background: white;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property .property-image {
+        width: 260px;
+        margin-right: 30px;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property .property-image img {
+        height: 100%;
+        border-radius: 0;
+        margin: 0;
+    }
+
+    .holding-deposit-landlord .sidebar {
+        position: unset;
+    }
+
+    div#add_tenant .modal-dialog {
+        max-width: 75%;
+    }
+
+    div#add_guarantor .modal-dialog {
+        max-width: 75%;
+    }
+
+    .custom-modal .modal-dialog {
+        max-width: 75%;
+    }
+
+    .option-modal .modal-dialog {
+        max-width: 70%;
+        width: 100% !important;
+    }
+
+    .holding-deposit-landlord {
+        background: #F9F9F9;
+    }
+
+    .holding-deposit-landlord .order-one {
+        order: 1;
+    }
+
+    .holding-deposit-landlord .order-two {
+        order: 2;
+    }
+
+    .holding-deposit-landlord .Congrat-div {
+        margin-bottom: 0;
+    }
+
+    .holding-deposit-landlord .landlord-options {
+        padding: 20px 0 0;
+        border-bottom: 0;
+    }
+
+    section.landlord-title {
+        padding: 45px 0 30px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 36px;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 26px;
+        margin-top: 6px;
+    }
+
+    section.smart-management h2 {
+        font-size: 44px;
+        margin-bottom: 10px;
+    }
+
+    section.smart-management p {
+        font-size: 26px;
+    }
+
+    section.landlord-servises-card .inner {
+        width: 100%;
+    }
+
+    section.tenants-main .search-home {
+        height: 296px;
+    }
+
+    .application-for h3 {
+        font-size: 17px;
+    }
+
+    .application-for p {
+        font-size: 14px;
+    }
+
+    .holding-deposit-landlord a.btn.edit {
+        font-size: 13px;
+        min-width: 157px;
+        padding: 8px 8px;
+    }
+
+    .holding-deposit-landlord .inner h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .holding-deposit-landlord .guarantors.pro-guarantor h3 {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+
+    .referencing-options .inner {
+        border: 0;
+        padding: 0;
+    }
+
+    .referencetenants.holding-deposit-landlord .unverified-emails .inner h3 {
+        font-size: 19px;
+    }
+
+    .referencetenants .referencing-options h3 {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+
+    .referencetenants.holding-deposit-landlord {
+        background: white;
+    }
+
+    .holding-deposit-landlord .applicant ul li {
+        width: 277px;
+    }
+
+    .holding-deposit-landlord h3 {
+        font-size: 19px;
+    }
+
+    .holding-deposit-landlord .new-applicant {
+        text-align: center;
+    }
+
+    .holding-deposit-landlord .new-applicant .info {
+        margin-bottom: 17px;
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 42%;
+        margin: 0 auto;
+    }
+
+    .rent-payment-options .tab-content {
+        margin-left: 0;
+        display: none;
+        background: white;
+        padding: 0 0;
+        width: 0;
+        height: 100vh;
+        float: right;
+        opacity: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        z-index: -1;
+        -webkit-transition: 1s ease all;
+        transition: 1s ease all;
+        overflow-y: scroll;
+    }
+
+    .rent-payment-options .tab-content.active {
+        display: block;
+        width: 100%;
+        background: white;
+        z-index: 9999999999999;
+        opacity: 1;
+        padding: 40px;
+    }
+
+    .rent-payment-options .tab-content a.close-btn {
+        display: block;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 h3 {
+        width: 50%;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 .action-btn {
+        width: 50%;
+        text-align: right;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants a {
+        margin: 0 0 0 auto;
+    }
+
+    .holding-deposit-tenant .content-wrap .content h3 {
+        font-size: 21px;
+    }
+
+    .holding-deposit-tenant .guarantor-request {
+        margin-top: 0;
+    }
+
+    .holding-deposit-landlord .new-applicant .order_1 {
+        order: 1;
+    }
+
+    .holding-deposit-landlord .new-applicant .order_2 {
+        order: 2;
+    }
+
+    .services-nav nav.navbar.navbar-expand-lg.pl-0.pr-0 {
+        display: none;
+    }
+
+    .proceed-contract .tenancy-details .info {
+        width: 152%;
+    }
+
+    .contract-signing .side-bar {
+        display: none;
+    }
+
+    .contract-signing .main-content {
+        margin: 25px 25px 0;
+        overflow: auto;
+    }
+
+    .contract-signing .table td a {
+        padding: 6px 20px;
+        font-size: 13px;
+    }
+    .content.action-btn a {
+        padding: 5px 18px;
+        font-size: 13px;
+    }
+    .contract-signing .manage-contract a {
+        padding: 4px 20px;
+        font-size: 13px;
+    }
+    section.s-hero-banner {
+        height: 84vh;
+        width: 100%;
+        background-image: linear-gradient(
+                0deg
+                , rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/let-only.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    section.s-hero-banner .wrap .inner {
+        transform: translateX(25px);
+    }
+    section.s-hero-banner:before {
+        transform: translateX(25px);
+    }
+    section.s-banner .banner-img .img-wrap {
+        right: -102px;
+    }
+    section.main-s-cards .card-item {
+        margin-bottom: 30px;
+    }
+    section.s-banner .s-banner-bg {
+        width: 83%;
+    }
+}
+
+/*max width 907*/
+@media only screen and (max-width: 907px) {
+    .header-widget {
+        display: none;
+    }
+    .m-header {
+        display: block;
+    }
+    header#header-container .left-side {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    #logo {
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #logo a{
+        display: block;
+        width: 100%;
+    }
+    /*.mobile-nav-button {*/
+    /*    display: block;*/
+    /*    position: relative;*/
+    /*    top: 8px;*/
+    /*}*/
+
+    .our-partners ul {
+        width: 82%;
+    }
+
+    .price-cards .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 75%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    h3.headline {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .bottom-line:after {
+        left: 20%;
+    }
+
+    section.savings-calculator.section-padding .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    section.savings-calculator.section-padding .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+
+    .savings-calculator .content.text-black {
+        padding-left: 15px;
+        padding-right: 30px;
+    }
+
+    .savings-calculator .card {
+
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .total-savings {
+        width: 70%;
+    }
+
+    div#sign-in-dialog {
+        position: absolute;
+        left: 4%;
+        top: -190px;
+    }
+
+    .login-section div#sign-in-dialog {
+        position: unset;
+    }
+
+    div#sign-up-first-dialog {
+        position: absolute;
+        left: 4%;
+        top: -190px;
+    }
+
+    div#sign-up-dialog {
+        position: absolute;
+        left: 4%;
+        top: -190px;
+    }
+
+    .register-section div#sign-up-dialog {
+        position: unset;
+    }
+
+
+}
+
+/*max width 900*/
+@media only screen and (max-width: 900px) {
+
+
+    .content-wrap .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .content-wrap .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .content-wrap.search-content .col-md-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .content-wrap.search-content .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .services_content .col-md-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .services_content .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .verified-badge.with-tip {
+        width: 100%;
+    }
+
+    .check_card {
+        width: 100%;
+        margin-bottom: 35px;
+    }
+
+    .hosted-box {
+        width: 100%;
+        margin-top: 15px;
+        order: 1;
+    }
+
+    .social-media-share {
+        width: 100%;
+        order: 2;
+    }
+
+    .check_card_wrap {
+        order: 4;
+    }
+
+    .preview-sidebar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 33%;
+    }
+
+    div#overview {
+        width: 100%;
+    }
+
+    .payment-ways-img {
+        text-align: center;
+    }
+
+    .map-mobile {
+        display: block;
+        order: 3;
+    }
+
+    .map-desktop {
+        display: none;
+    }
+
+    .check_card_head .col-5.col-sm-5 {
+        text-align: center;
+    }
+
+    .overview-location {
+        margin-top: 35px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .room-bathroom-number .form-group {
+        width: 49%;
+    }
+
+    .room-bathroom-number .form-group:last-child {
+        right: -14px;
+    }
+
+
+    .file-content {
+        width: 118px;
+    }
+
+    .file-preview-thumbnails div:first-child .file-preview-frame.krajee-default.kv-preview-thumb .kv-file-content {
+        width: 254px;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 74%;
+    }
+
+    .hmo-btn a {
+        width: 22%;
+        padding: 13px;
+    }
+
+    .searh-preview-card .check_card {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .search-img-wrap {
+
+        width: 100%;
+    }
+
+    .content-wrap.search-content .heading-location {
+        text-align: left;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 58%;
+    }
+
+    .check-card {
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    .searh-preview-card {
+        padding-bottom: 20px;
+    }
+
+    .tenants-cities-services .col-md-4 {
+        /*margin: 0 13.5px;*/
+    }
+
+    .take-tour-cities a {
+
+        font-size: 20px;
+
+    }
+
+    .take-tour-cities ul li.list-inline-item {
+        margin: 0 13px 5px 13px;
+    }
+
+    .hero-banner h1 {
+        font-size: 36px;
+        line-height: 39px;
+    }
+
+    table.table.pricing-table {
+        max-width: 845px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 28px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 65px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 58px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 35px;
+        line-height: 39px;
+    }
+
+    .other-agents-modal {
+        max-width: 85%;
+    }
+
+    .property-management-full-services .table thead th {
+        top: 69px;
+
+    }
+
+    .property-management-full-services .table thead th {
+        font-size: 17px;
+    }
+
+    .savings-calculator-heading {
+        display: none;
+    }
+
+    .savings-calculator-title {
+        display: block;
+    }
+
+    .savings-calculator-title h2 br {
+        display: none;
+    }
+
+    .order-one {
+        order: 1;
+    }
+
+    .order-two {
+        order: 2;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 32px;
+        margin-top: 0;
+        text-align: center;
+
+    }
+
+    .savings-calculator-inner .banner-cards-second-col {
+        border-left: 0;
+        padding-left: 15px;
+        padding-bottom: 30px;
+    }
+
+    .savings-calculator-inner a {
+        display: block;
+        width: 70%;
+        margin: 0 auto;
+        /* margin-right: 109px; */
+        background: transparent;
+        color: black;
+        border: 1px solid gray;
+        line-height: 26px;
+    }
+
+    .header-account .container-fluid {
+        padding: 0 45px;
+    }
+
+    .message-container-inner .message-content {
+        width: 70%;
+
+    }
+
+
+    section.landlord-banner h3 {
+        font-size: 42px;
+    }
+
+    .landord-pricing-cards .col-md-4 {
+        -ms-flex: 0 0 51%;
+        flex: 0 0 51%;
+        max-width: 51%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .why-advertise-zacoota .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .landord-pricing-cards-logos {
+        margin-left: 44px;
+    }
+
+    .why-advertise-zacoota-footer {
+        width: 100%;
+    }
+
+    .related-stories .slick-track {
+        overflow: auto !important;
+    }
+
+    div#more_filters .modal-dialog {
+        max-width: 85%;
+    }
+
+    div#mobile-filter .modal-dialog {
+        max-width: 67%;
+    }
+
+    .send-message-inner {
+        width: 75%;
+
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 75%;
+    }
+
+    div#verification_modal .modal-body {
+        max-height: 75vh;
+        overflow-y: scroll;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 60%;
+    }
+
+    .instarent-checkout {
+        width: 80%;
+    }
+
+    .holding-deposit-view .guarantors_tenants a {
+        padding: 8px 20px;
+        margin-right: 8px;
+        margin-bottom: 0;
+    }
+
+    .holding-deposit-view .guarantors_tenants .action-btn {
+        position: unset;
+        transform: translateY(0);
+        display: flex;
+    }
+
+    .insta-breadcrumb ul li {
+        font-size: 14px;
+        padding: 14px 16px;
+        width: auto;
+    }
+
+    .landlord-options .flex {
+        display: block;
+    }
+
+    .landlord-options .btn {
+        font-size: 13px;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .holding-deposit-landlord .applicant ul li {
+        width: 247px;
+    }
+
+    .holding-deposit-landlord .applicant ul li p {
+        padding: 0 25px;
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 48%;
+    }
+
+    .holding-deposit-landlord .landlord_option .options ul {
+        display: block;
+    }
+
+    .holding-deposit-landlord .landlord_option .options ul li {
+        margin-bottom: 15px;
+    }
+
+    /*new*/
+    .d-view {
+        display: none;
+    }
+
+    .m-view {
+        display: block;
+        border-bottom: 0 !important;
+    }
+
+    .content-wrap.services_content {
+        margin-top: 15px;
+    }
+
+    .content-wrap.services_content .service-description {
+        border: 1px solid #d8d8d8;
+        padding: 15px;
+        border-radius: 4px;
+        margin-bottom: 20px;
+    }
+
+    .services-heading h2 {
+        font-size: 28px;
+        margin-bottom: 24px;
+    }
+
+    .services-heading {
+        margin: 10px 0 0;
+    }
+
+    .content-wrap.services_content .service-content {
+        margin-top: 3px;
+    }
+
+    .content-wrap.services_content .service-head h3 {
+        font-size: 16px;
+        padding-left: 2px;
+    }
+
+    .content-wrap.services_content .address-details button {
+        width: 100%;
+        display: block;
+        text-align: left;
+    }
+
+    .content-wrap.services_content .service-description .contact-details {
+        border-bottom: 0;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .service-checkout .inner {
+        padding: 30px 0;
+    }
+
+    .service-checkout .total a {
+        padding: 8px 9px;
+        font-size: 14px;
+        margin: 0 4px;
+    }
+
+    .content-wrap.services_content .service-options {
+        border-top: 1px solid #d8d8d8;
+        padding-top: 18px;
+        margin-top: 4px;
+    }
+
+    .proceed-contract .advanced-settings .col-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .proceed-contract .advanced-settings .col-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .proceed-contract .advanced-settings .select-wrap {
+        width: 100%;
+    }
+
+    .proceed-contract .advanced-settings .info {
+        position: unset;
+        border-top: 0;
+        border-bottom: 3px solid #00838D;
+    }
+
+    .proceed-contract .advanced-settings .info:before {
+        left: 37px;
+        top: 11px;
+        transform: translate3d(0, 0, 0) rotate(
+                88deg
+        );
+    }
+
+    .proceed-contract .advanced-settings .info:after {
+        left: 38px;
+        top: 15px;
+        transform: translate3d(0, 0, 0) rotate(
+                84deg
+        );
+    }
+
+    .proceed-contract .legal-disclaimers .col-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .proceed-contract .legal-disclaimers .col-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .proceed-contract .legal-disclaimers .info {
+        position: unset;
+        border-top: 0;
+        border-bottom: 3px solid #00838D;
+    }
+
+    .proceed-contract .legal-disclaimers .info:before {
+        left: 37px;
+        top: 11px;
+        transform: translate3d(0, 0, 0) rotate(
+                88deg
+        );
+    }
+
+    .proceed-contract .legal-disclaimers .info:after {
+        left: 38px;
+        top: 15px;
+        transform: translate3d(0, 0, 0) rotate(
+                84deg
+        );
+    }
+
+    .proceed-contract .advanced-settings textarea {
+        width: 100%;
+    }
+
+    .proceed-contract .advanced-settings .contract-clauses .append-clauses {
+        width: 100%;
+    }
+
+    .proceed-contract .legal-disclaimers input {
+        width: 80%;
+    }
+}
+
+/*max width 850*/
+@media only screen and (max-width: 850px) {
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 66%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 50%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .col-sm-4.col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .messages-container-inner .message-content {
+        padding: 30px 80px
+
+    }
+
+    div#mobile-filter .modal-dialog {
+        max-width: 75%;
+    }
+
+    .send-message-inner {
+        width: 85%;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 66%;
+    }
+
+    .instarent-side-bar .property-details {
+        margin-top: 8px;
+        width: 60%;
+    }
+
+    .review-commit p br {
+        display: none;
+    }
+
+    .insta-breadcrumb ul li {
+        font-size: 13px;
+        padding: 14px 15px;
+        width: auto;
+    }
+
+    section.cancel-deposit label.form-check-label {
+        font-size: 14px;
+    }
+
+    section.cancel-deposit label:before {
+        top: 5px;
+        width: 17px;
+        height: 17px;
+    }
+
+    section.cancel-deposit input[type=checkbox]:checked + label:after {
+        font-size: 12px;
+        line-height: 30px;
+        left: -19px;
+    }
+
+    div#add_tenant .modal-dialog {
+        max-width: 80%;
+    }
+
+    div#add_guarantor .modal-dialog {
+        max-width: 80%;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property-details h3 {
+        font-size: 19px;
+    }
+
+    .rent-now-references table.table.references-table {
+        width: 71%;
+    }
+
+    .holding-deposit-landlord .applicant ul li {
+        width: 230px;
+    }
+
+    .holding-deposit-landlord .applicant ul li p {
+        padding: 0 18px;
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 50%;
+    }
+
+    .holding-deposit-tenant .guarantor-request .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .holding-deposit-tenant .guarantor-request .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .holding-deposit-tenant .guarantor-request .inner .action-btn {
+        display: flex;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .proceed-contract .landlord-details input {
+        width: 80%;
+    }
+
+    .proceed-contract .tenancy-details input {
+        width: 60%;
+    }
+
+    .proceed-contract .landlord-details .select-wrap {
+        width: 80%;
+    }
+
+    .proceed-contract .tenancy-details textarea {
+        width: 80%;
+    }
+    .additional-services-card {
+        padding: 30px 8px 10px;
+    }
+    section.extra-optionals svg {
+        margin-right: 14px;
+    }
+    section.extra-optionals .additional-services-card h5 {
+        font-size: 14px;
+    }
+    section.extra-optionals .additional-services-card h5 br{
+        display: none;
+    }
+    section.extra-optionals .wrap {
+        padding: 0 15px;
+    }
+}
+
+/*max width 800*/
+@media only screen and (max-width: 800px) {
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 36%;
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 42px;
+        line-height: 46px;
+    }
+
+    .hero-banner p br {
+        display: none;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 30px;
+    }
+
+    section.our-service-steps .card .card-body p br {
+        display: none;
+    }
+
+    section.our-service-steps .card .card-body p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 30px;
+    }
+
+    .our-price-cards p {
+        font-size: 15px;
+    }
+
+    .additional_services h3 {
+        font-size: 30px;
+    }
+
+    .additional_services p {
+        font-size: 15px;
+    }
+
+    .hmo-services h3 {
+        font-size: 30px;
+    }
+
+    .hmo-btn a {
+        width: 42%;
+    }
+
+    .black-lives-inner h2 {
+        width: 100%;
+    }
+
+    .black-lives-inner p {
+        width: 80%;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 67%;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 76%;
+    }
+
+    .carousel-item.slick-slide.slick-active {
+        width: 296px !important;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 27px;
+    }
+
+    .price-card-free p {
+        margin-right: 0;
+    }
+
+    .studio-inner {
+        padding: 61px 50px 57px;
+    }
+
+    .tenants-cities-services .col-md-4 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    section.landlord-servises-card .col-md-4 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    section.landlord-servises-card .service_card {
+        display: flex;
+    }
+
+    section.landlord-servises-card h3 {
+        min-height: auto;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 36px;
+        line-height: 39px;
+    }
+
+    section.landlord-servises-card .image {
+        margin-bottom: 0;
+        width: 37%;
+        margin-right: 25px;
+    }
+
+    .studio-inner h2 {
+        line-height: 1;
+        font-size: 29px;
+    }
+
+    section.tenants-main .search-home p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    section.landlord-title {
+        padding: 37px 0 25px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 33px;
+    }
+
+    section.rent-house ul li {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .landlord-trust .start-saving {
+        width: 100%;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 24px;
+        margin-top: 9px;
+    }
+
+    section.smart-management h2 {
+        font-size: 42px;
+        margin-bottom: 9px;
+    }
+
+    section.smart-management p {
+        font-size: 25px;
+    }
+
+    section.rent-house ul li svg {
+        top: 20px;
+    }
+
+    section.rent-house {
+        padding: 45px 0 40px;
+    }
+
+    .studio-inner p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .brand-text h3 {
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+
+    .take-tour-inner h2 {
+
+        font-size: 30px;
+        line-height: 1;
+    }
+
+    .brand-image img {
+        height: 100px;
+    }
+
+    .brand-text p {
+
+        margin-top: 14px;
+
+    }
+
+    .brand-inner {
+
+        height: 383px;
+
+    }
+
+    .studio {
+        padding-top: 0;
+    }
+
+    .tenants-cities-card-text h2 {
+        font-size: 27px !important;
+    }
+
+    .take-tour-cities {
+
+        padding: 30px 25px 20px;
+    }
+
+    .take-tour-cities a {
+        font-size: 19px;
+    }
+
+    .take-tour-cities ul li.list-inline-item {
+        margin: 0 10px 5px 10px;
+    }
+
+    .pricing-card-image {
+        width: 83%;
+        margin: 0 auto;
+    }
+
+    .footer-as-seen-in-logos .as-seen-in-logo:nth-child(3) {
+        display: none;
+    }
+
+    .line-heading h3:before {
+
+        width: 38%;
+    }
+
+    .line-heading h3:after {
+
+        width: 38%;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 84%;
+    }
+
+    table.table.pricing-table {
+        display: none;
+    }
+
+    .banner-cards-inner {
+        margin: 0 50px;
+        margin-top: -115px;
+        margin-bottom: 50px;
+    }
+
+    .banner-cards-inner .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .banner-cards-inner .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .banner-cards-inner .banner-cards-second-col {
+        border-top: 1px solid #e2e2e28f;
+        border-left: 0;
+        padding-top: 15px;
+    }
+
+    .hero-banner h1 {
+        margin-bottom: 0;
+    }
+
+    .pricing-cards-mobile {
+        display: block;
+    }
+
+    .pricing-cards-mobile table.table.pricing-table {
+        display: block;
+    }
+
+    .firstColumn {
+        border-right: 2px solid #dee2e6;
+    }
+
+    th.firstColumn {
+        border-top-right-radius: 9px !important;
+    }
+
+    table.table.pricing-table tr:last-child td.firstColumn {
+        border-bottom-right-radius: 9px !important;
+    }
+
+    .secondColumn {
+        border-right: 1px solid black;
+    }
+
+    th.secondColumn {
+
+        border-top-right-radius: 9px !important;
+
+    }
+
+    table.table.pricing-table tr:last-child td.secondColumn {
+
+        border-bottom-right-radius: 9px !important;
+    }
+
+    table.table.pricing-table thead th {
+        text-align: center;
+    }
+
+    th.firstColumn span {
+        display: block;
+        font-size: 22px;
+        padding-top: 8px;
+    }
+
+    th.thirdColumn span {
+        display: block;
+        font-size: 22px;
+        padding-top: 7px;
+    }
+
+    th.secondColumn span {
+        display: block;
+        font-size: 22px;
+        padding-top: 7px;
+    }
+
+    .pricing-cards-mobile .card-one th.FeatureRows {
+        color: #000000bd;
+    }
+
+    .pricing-cards-mobile .card-two th.FeatureRows {
+        color: #000000;
+    }
+
+    .pricing-cards-mobile .card-three th.FeatureRows {
+        color: #00838D;
+    }
+
+    .FeatureRows br {
+        display: none;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 63px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 56px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 34px;
+
+    }
+
+    .property-management-covered h2 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+
+    .ready-to-get-started-inner {
+        margin: 0 50px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 30px;
+    }
+
+    .ready-to-get-started-btn a {
+        padding: 15px 15px;
+        font-size: 14px;
+    }
+
+    .live-chat .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .live-chat .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .contact-main {
+        padding-right: 15px;
+    }
+
+    .my-listings .dashboard-list-box ul .inner ul li {
+        display: block;
+        margin-bottom: 0;
+    }
+
+    .my-listings .list-box-listing-content .inner {
+        top: 4px;
+    }
+
+    .my-listings .buttons-to-right {
+        top: 52%;
+    }
+
+
+
+
+
+    .header-account .container-fluid {
+        padding: 0 37px;
+    }
+
+    .message-container-inner .message-content {
+        width: 77%;
+    }
+
+    .proerty-details-mobile-content .message-details-summary p {
+        font-size: 15px;
+        line-height: 11px;
+    }
+
+    section.landlord-banner h3 {
+        font-size: 41px;
+    }
+
+    section.why-advertise-zacoota h2 {
+        font-size: 34px;
+    }
+
+    .get-more-for-less h2 {
+        font-size: 34px;
+    }
+
+    .faqs h2 {
+        font-size: 34px;
+    }
+
+    .hmo-services-card.tenants-cities {
+        padding-bottom: 0;
+    }
+
+    section.let-your-home-services .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .let-your-home-services .col-md-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .let-your-home-sidebar {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 25px;
+    }
+
+    .let-home-container {
+        padding: 0 100px;
+    }
+
+    section.let-your-home-banner h3 {
+        font-size: 27px;
+    }
+
+    .community-stories-media-cover-inner {
+        height: 225px;
+    }
+
+    .row.upgrade-card-row {
+        width: 90%;
+    }
+
+    .steps li {
+        width: 24%;
+    }
+
+    .instarent-checkout {
+        width: 99%;
+    }
+
+    .instarent-banner h1 {
+        font-size: 34px;
+    }
+
+    .text-slide .slide {
+        font-size: 34px;
+    }
+
+    section.how-its-work {
+        margin: 30px 0;
+    }
+
+    section.how-its-work h1 {
+        font-size: 28px;
+    }
+
+    .holding-deposit-landlord .applicant ul li {
+        width: calc(50% - 16px);
+    }
+
+    .holding-deposit-landlord .applicant ul li p {
+        padding: 0 67px;
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 54%;
+    }
+    .contract-signing table.table.awaiting tr td:first-child {
+        width: 70%;
+    }
+
+    /*.price-card-free-inner .col-md-6 {*/
+    /*    -webkit-box-flex: 0;*/
+    /*    -ms-flex: 0 0 100%;*/
+    /*    flex: 0 0 100%;*/
+    /*    max-width: 100%;*/
+    /*}*/
+    /*.price-card-free h3.headline {*/
+    /*    margin-bottom: 50px;*/
+    /*}*/
+    /*.pricing-card-image {*/
+    /*    width: 60%;*/
+    /*    margin-top: 30px;*/
+    /*}*/
+}
+
+/*max width 769*/
+@media only screen and (max-width: 769px) {
+    .carousel-item.slick-slide.slick-active {
+        width: 296px !important;
+    }
+
+}
+
+
+/*max width 768*/
+@media only screen and (max-width: 768px) {
+    .main-search-input-item {
+        border: 0;
+    }
+
+    .main-search-input-item input {
+        width: 100%;
+        padding: 0;
+        padding-left: 5px !important;
+        height: 40px !important;
+        font-size: 14px !important;
+        padding-bottom: 4px;
+    }
+
+    .main-search-input-item i.fa-map-marker {
+        bottom: 10px !important;
+        left: 0 !important;
+    }
+
+    .main-search-input-item:nth-child(1) {
+        flex: 1 !important;
+    }
+
+    .main-search-input-item:nth-child(2),
+    .main-search-input-item:nth-child(3),
+    .search-label {
+        display: none;
+    }
+
+    .main-search-input input, .main-search-input input:focus {
+        outline: 0;
+    }
+
+    .our-partners ul li {
+        padding-right: 32px;
+    }
+
+    .our-partners ul li:nth-child(5) {
+        display: none;
+    }
+
+    .main-search-input {
+        padding: 3px 0;
+        width: 82%;
+    }
+
+    .main-search-inner {
+        padding-bottom: 0;
+    }
+
+    .main-search-input button.button {
+        height: 34px;
+        margin-top: 5px;
+        font-size: 13px;
+        padding: 0 13px;
+    }
+
+    h2.headline {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .savings-calculator-head {
+        padding: 6px 20px 21px 20px;
+    }
+
+    .savings-calculator-head h3 {
+        font-size: 22px;
+    }
+
+    .main-search-inner h3 {
+        font-size: 29px !important;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 38%;
+    }
+
+
+    .file-preview-thumbnails div:first-child .file-preview-frame.krajee-default.kv-preview-thumb .kv-file-content {
+        width: 267px;
+    }
+
+
+    .our-service-steps .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 70%;
+        flex: 0 0 70%;
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 85%;
+    }
+
+    .hmo-btn a {
+        width: 24%;
+    }
+
+    button#formbut {
+        width: 33%;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 33%;
+    }
+
+    div#sign-in-dialog {
+        position: absolute;
+        left: 2.2%;
+        top: -190px;
+    }
+
+    div#sign-up-first-dialog {
+        position: absolute;
+        left: 2.2%;
+        top: -190px;
+    }
+
+    div#sign-up-dialog {
+        position: absolute;
+        left: 2.2%;
+        top: -190px;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 86%;
+    }
+
+    section.our-service-steps {
+
+        padding-bottom: 20px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 61px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 54px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 32px;
+    }
+
+    .other-agents-modal {
+        max-width: 93%;
+        margin: 0 auto;
+        top: 30px;
+    }
+
+    .other-agents-modal .table thead th {
+        font-size: 16px;
+
+    }
+
+    .property-management-full-services .table thead th {
+        font-size: 16px;
+    }
+
+    .property-management-full-services .table tbody th {
+        width: 38%;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .savings-calculator-inner {
+        padding: 40px 40px;
+    }
+
+    .ready-to-get-started-inner {
+        margin: 0 35px;
+    }
+
+    .additional_services_inner .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+        margin: 0 auto;
+    }
+
+    .follow-us-col {
+        padding-left: 30px !important;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 26px;
+    }
+
+    .line-heading h3 span {
+
+        font-size: 26px;
+
+    }
+
+    .services-nav ul li a {
+        margin-right: 33px;
+    }
+
+
+    .message-container-inner .message-content {
+        width: 80%;
+    }
+
+    .proerty-details-mobile-content .message-details-summary p {
+        font-size: 14px;
+        line-height: 10px;
+    }
+
+    .proerty-details-mobile-content .message-details-summary {
+        margin-top: 2px;
+    }
+
+    .proerty-details-mobile-btn a {
+        margin-top: 11px;
+    }
+
+    form#send-message-from-chat {
+        width: 84%;
+    }
+
+    section.landlord-banner h3 {
+        font-size: 41px;
+    }
+
+    section.why-advertise-zacoota h2 {
+        font-size: 32px;
+    }
+
+    .get-more-for-less h2 {
+        font-size: 32px;
+    }
+
+    .faqs h2 {
+        font-size: 32px;
+    }
+
+    .check-card {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 59%;
+    }
+
+    .features a.btn {
+        width: 100%;
+    }
+
+    .send-message-inner {
+        width: 100%;
+    }
+
+    div#verification_modal {
+        padding: 0 !important;
+        overflow-y: hidden;
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 92%;
+    }
+
+    .steps li {
+        width: 26%;
+    }
+
+    .instarent-side-bar .property .property-image {
+        width: 430px;
+    }
+
+    .booking-info .wrap {
+        width: 100%;
+    }
+
+    .booking-info .rent-details {
+        width: 100%;
+    }
+
+    .insta-breadcrumb ul li {
+        font-size: 12px;
+        padding: 12px 11px;
+        width: auto;
+    }
+
+    .Congrat-div h6 {
+        font-size: 18px;
+    }
+
+    .Congrat-div p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .instarent-propery-details .inner .image {
+        width: 80px;
+    }
+
+    .holding-deposit-view .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(15px);
+    }
+
+    .holding-deposit-view h3 {
+        font-size: 21px;
+    }
+
+    .holding-deposit-view .guarantors_tenants h6 {
+        font-size: 15px;
+    }
+
+    div#add_tenant .modal-dialog {
+        max-width: 90%;
+    }
+
+    div#add_guarantor .modal-dialog {
+        max-width: 90%;
+    }
+
+    .option-modal .modal-dialog {
+        max-width: 95%;
+        width: 100% !important;
+    }
+
+    .custom-modal .modal-dialog {
+        max-width: 90%;
+    }
+
+    .holding-deposit-landlord .Congrat-div .wrap h6 {
+        font-size: 21px;
+    }
+
+    .rent-now-references table.table.references-table {
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    .rent-now-references .table tr th:last-child {
+        text-align: right;
+    }
+
+    .referencing-options p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .referencing-options .table {
+        width: 100%;
+    }
+
+    .unverified-emails .inner .table {
+        width: 85%;
+    }
+
+    .add_tenant_guarantor {
+        width: 100%;
+    }
+
+    .add_tenant_guarantor p {
+
+        width: 88%;
+    }
+
+    .referencetenants.holding-deposit-landlord {
+        background: #F9F9F9;
+    }
+
+    .referencing-options .inner {
+        background: #F9F9F9;
+    }
+
+    .referencing-options table.table.references-table {
+        border: 1px solid #d8d8d8;
+        padding: 9px 19px;
+        margin-top: 15px;
+        background: white;
+    }
+
+    .referencetenants {
+        padding: 30px 0 21px;
+    }
+
+    .tenancy-applicant ul {
+        display: flex;
+        overflow-y: scroll;
+        margin-bottom: 21px;
+    }
+
+    .tenancy-applicant ul::-webkit-scrollbar {
+        height: 0;
+        width: 0;
+    }
+
+    .tenancy-applicant ul li {
+        margin: 0 7px 0 0;
+        background: #f4f4f47a;
+    }
+
+    .holding-deposit-landlord .referencing-options .table tr td {
+        display: block;
+        padding: 0 0 8px;
+    }
+
+    .holding-deposit-landlord .referencing-options .reference-type {
+        float: left;
+    }
+
+    .holding-deposit-landlord .referencing-options .reference-type label {
+        padding: 6px 10px;
+        width: 152px;
+        font-size: 13px;
+    }
+
+    .holding-deposit-landlord .referencing-options .table tr td:last-child {
+        padding-left: 0;
+    }
+
+    .holding-deposit-landlord .referencing-options .table tr {
+        border-bottom: 1px solid #dee2e6;
+        display: flow-root;
+        margin-bottom: 10px;
+        padding-bottom: 6px;
+    }
+
+    .holding-deposit-landlord .referencing-options .table tr:last-child {
+        border-bottom: 0;
+    }
+
+    .content-wrap.services_content {
+        margin-top: 10px;
+    }
+
+    .services-heading h2 {
+        font-size: 26px;
+        margin-bottom: 24px;
+    }
+
+    .service-checkout .total p {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+
+    .contract-signing h2 {
+        font-size: 20px;
+    }
+}
+
+
+/*max width 767*/
+@media only screen and (max-width: 767px) {
+    .file-preview-thumbnails {
+        display: inline-block;
+    }
+
+    .hero-banner h1.text-white br {
+        display: none;
+    }
+
+    .hmo-gallery-mobile {
+        display: block;
+    }
+
+    .hmo-gallery-desktop {
+        display: none;
+    }
+
+    .hmo-gallery-mobile .content-slider li {
+        padding-right: 20px;
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 460px !important;
+
+    }
+
+    .hmo-image {
+        height: 289px !important;
+    }
+
+    .hmo-image img {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .hmo-btn a {
+        width: 44%;
+    }
+
+    .boiler-check-wrap p {
+        margin: 20px 0 50px;
+        position: relative;
+
+    }
+
+    .boiler-check-wrap p:before {
+        content: '';
+        position: absolute;
+        bottom: -25px;
+        left: 0;
+        border-bottom: 1px solid #eaeaea;
+        width: 100%;
+        height: 1px;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 75%;
+    }
+
+    .you-renting-btn .custom-radio.custom-control-inline {
+        display: block;
+    }
+
+    .you-renting-btn .form-check {
+        margin-right: 0;
+        margin-bottom: 13px;
+    }
+
+
+    .you-renting-btn .form-check:last-child label {
+        margin-left: 45px;
+    }
+
+    .features-inner .form-inline {
+        width: 48%;
+    }
+
+    .features-inner .form-inline:nth-child(even) {
+        margin-right: 0;
+    }
+
+    .features-inner .form-inline:nth-child(3) {
+        margin-right: 14px;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(3) {
+        margin-right: 14px;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(even) {
+        margin-right: 0;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 48%;
+    }
+
+    .search-home-image {
+        display: none;
+    }
+
+    .pricing-card-image {
+        display: none;
+    }
+
+    .price-card-free h3.headline {
+        margin-bottom: 30px;
+    }
+
+    .studio-inner {
+
+        margin-right: 15px;
+        margin-bottom: 20px;
+    }
+
+    .brand-inner {
+        height: 348px;
+        margin-bottom: 5px;
+    }
+
+    .search-home-image img {
+        height: 200px;
+        margin-top: 25px;
+    }
+
+    section.hidden-fee img {
+        display: none;
+    }
+
+    section.hidden-fee {
+        padding: 50px 0 25px;
+    }
+
+    #footer ul li {
+        display: inline-block;
+        margin: 0 7px;
+    }
+
+    .follow-us-col {
+        padding-left: 20px !important;
+        border: 0;
+        display: flex;
+
+    }
+
+    #footer p.useful-links {
+        margin-bottom: 15px;
+    }
+
+    .trusted-img img {
+        top: 0;
+    }
+
+    .follow-us-two {
+        padding-left: 33px;
+    }
+
+    .saved-list-box-listing .list-box-listing-content {
+
+        padding-top: 0;
+    }
+
+    section.hmo-other-services a {
+        display: block;
+    }
+
+    .youtube-video-wrap {
+        margin-bottom: 15px;
+    }
+
+    .community-stories-media-cover-inner {
+        height: 300px;
+    }
+
+    .main-search-container {
+        height: 330px;
+    }
+
+    section.landlord-title {
+        padding: 40px 0 25px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 32px;
+    }
+
+    section.rent-house ul li {
+        width: 100%;
+    }
+
+    .landlord-trust .start-saving {
+        width: 100%;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 24px;
+        margin-top: 9px;
+    }
+
+    .proceed-contract .tenancy-details .info {
+        width: 100%;
+    }
+
+    .proceed-contract .co-signatories .info {
+        margin-top: 18px;
+    }
+
+    .proceed-contract .new-applicant .info {
+        margin-top: 18px;
+    }
+
+    .contract-signing .content.property-details a {
+        padding-bottom: 6px;
+    }
+
+    .contract-signing .user-details a {
+        padding: 6px 32px;
+        font-size: 13px;
+    }
+
+    .content.action-btn a {
+        padding: 4px 18px;
+        font-size: 13px;
+    }
+
+    .contract-signing .manage-tenancy a {
+        padding: 3px 20px;
+        font-size: 13px;
+    }
+
+    .contract-signing .content.heading-text h2 {
+        margin-bottom: 2px;
+    }
+    .contract-signing .inventory .info {
+        margin-top: 15px;
+    }
+    .contract-signing .inventory a {
+        padding: 5px 30px;
+        font-size: 13px;
+        margin-top: 15px;
+        max-width: fit-content;
+    }
+    section.s-banner .s-banner-bg {
+        width: 100%;
+    }
+}
+
+
+/*max width 736*/
+@media only screen and (max-width: 736px) {
+    .black-lives-inner p {
+        width: 90%;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 61%;
+    }
+
+    div#sign-in-dialog {
+        position: absolute;
+        left: 1.8%;
+        top: -190px;
+    }
+
+    div#sign-up-first-dialog {
+        position: absolute;
+        left: 1.8%;
+        top: -190px;
+    }
+
+    div#sign-up-dialog {
+        position: absolute;
+        left: 1.8%;
+        top: -190px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 58px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 50px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 30px;
+    }
+
+    .ready-to-get-started-inner {
+        margin: 0 25px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 29px;
+    }
+
+    .savings-calculator-inner a {
+        display: block;
+        width: 71%;
+    }
+
+    .services-nav ul li a {
+        margin-right: 25px;
+    }
+
+    .message .messages-inbox .message-by {
+        margin-left: 35px;
+    }
+
+    .messages-inbox .message-by {
+        margin-left: 80px;
+    }
+
+    .message-container-inner .message-content {
+        width: 90%;
+    }
+
+    .messages .messages-container {
+        height: 100%;
+        min-height: 100vh;
+    }
+
+    form#send-message-from-chat {
+        width: 95%;
+
+    }
+
+    section.landlord-banner h3 {
+        font-size: 41px;
+    }
+
+    .row.upgrade-card-row {
+        width: 100%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 55%;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 70%;
+    }
+
+    .messages .messages-headline h4 {
+        border: 0;
+        width: 39%;
+    }
+
+    .messages-container-inner .message-content {
+        padding: 30px 40px;
+    }
+
+    .insta-breadcrumb ul li {
+        padding: 12px 8px;
+    }
+
+    .referencetenants .information p {
+        font-size: 13px;
+        line-height: 26px;
+    }
+
+    .referencetenants h2 {
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+
+    .referencetenants .referencing-options h3 {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+}
+
+/*max width 600*/
+@media only screen and (max-width: 600px) {
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 52%;
+    }
+
+    .features-inner .form-inline {
+
+        width: 46.6%;
+    }
+
+    .features-inner .form-inline:nth-child(3) {
+        margin-right: 13px;
+    }
+
+    .features-inner .form-inline:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .features-inner .form-inline:nth-child(4) {
+        margin-right: 0;
+    }
+
+    .preferred-tenant-inner .form-inline {
+
+        width: 46.6%;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(3) {
+        margin-right: 13px;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(6) {
+        margin-right: 13px;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(2) {
+        margin-right: 13px;
+    }
+
+    .preferred-tenant-inner .form-inline:nth-child(4) {
+        margin-right: 0;
+    }
+
+    .file-preview-thumbnails div:first-child .file-preview-frame.krajee-default.kv-preview-thumb .kv-file-content {
+        width: 240px;
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 111px;
+    }
+
+    .property-description-btn label {
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: left;
+        float: left;
+    }
+
+    .form-inline.property-description-btn {
+        width: 100%;
+
+    }
+
+
+    .property-description-btn .form-check {
+        margin-right: 0;
+        float: left;
+    }
+
+    .add-listing-heading {
+        width: calc(100% + 40px);
+        left: -20px;
+        padding: 17px 20px;
+    }
+
+    .you-renting-inner {
+
+        padding: 0 20px 0 20px;
+    }
+
+    .add-property-details-inner {
+        padding: 0 20px 80px 20px;
+    }
+
+    .property-description-inner {
+        padding: 0 20px 80px 20px;
+    }
+
+    .tenancy-details-inner {
+        padding: 0 20px 0 20px;
+    }
+
+    .features-inner {
+        padding: 0 20px 0 20px;
+    }
+
+    .preferred-tenant-inner {
+        padding: 0 1px 0 20px;
+    }
+
+    .file-upload-inner {
+        padding: 0 20px 80px 20px;
+    }
+
+    .terms-inner {
+        padding: 0 20px 80px 20px;
+    }
+
+    .features-inner .form-inline {
+        width: 48.4%;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 46.5% !important;
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .partners h3.headline {
+        font-size: 20px;
+    }
+
+    .hero-banner p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .our-service-steps .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    section.our-service-steps .heading-text.text-center {
+        margin: 10px 0 40px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 28px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 28px;
+    }
+
+    .our-price-cards p {
+        font-size: 14px;
+    }
+
+    .our-price-cards .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    section.our-price-cards .border-black {
+        margin-top: 25px;
+    }
+
+    .green-card .list-star h6 br {
+        display: none;
+    }
+
+    .green-card .list-star h6:after {
+        top: 37px;
+    }
+
+    .green-card ul li h6 br {
+        display: none;
+    }
+
+    .our-price-card-sub-heading p {
+        min-height: auto;
+    }
+
+    section.our-price-cards .card-body.text-left {
+        min-height: auto;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 100%;
+    }
+
+    .hmo-btn a {
+        width: 33%;
+    }
+
+    .black-lives-inner .col-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .black-lives-inner a {
+
+    }
+
+    .black-lives-inner {
+        background: black;
+        padding: 85px 25px 40px;
+        border-radius: 20px;
+    }
+
+    .black-lives-inner .list-now-btn {
+        text-align: left;
+    }
+
+    .black-lives-inner p {
+        width: 70%;
+    }
+
+    .black-lives-inner h2 {
+        width: 100%;
+    }
+
+    .black-lives-inner .col-9 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .black-lives-inner .col-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 29px;
+    }
+
+    div#sign-up-dialog {
+
+        max-width: 480px;
+        margin-top: 50px;
+    }
+
+    div#sign-in-dialog {
+        max-width: 480px;
+    }
+
+    div#reset-pass-dialog {
+        max-width: 480px;
+    }
+
+    .services-booking-inner .post-code-row {
+        display: block;
+    }
+
+    button#formbut {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 56%;
+    }
+
+
+    .carousel-item.slick-slide.slick-active {
+        width: 275px !important;
+    }
+
+    .footer-as-seen-in-logos .as-seen-in-logo:nth-child(4) {
+        display: none;
+    }
+
+    .main-search-container {
+        height: 254px;
+    }
+
+    .main-search-inner h3 {
+        font-size: 27px !important;
+        position: relative;
+    }
+
+    .main-search-inner p {
+        margin-bottom: 23px;
+        font-size: 15px;
+    }
+
+    .main-search-input button.button {
+        height: 38px;
+        margin-top: 3px;
+        font-size: 13px;
+        padding: 8px 13px;
+    }
+
+    /*.main-search-inner h3:before {*/
+    /*    content: '';*/
+    /*    position: absolute;*/
+    /*    top: 0;*/
+    /*    left: 0;*/
+    /*    width: 100%;*/
+    /*    height: 3px;*/
+    /*    background-color: white;*/
+    /*}*/
+    .hero-banner h1 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    .banner-cards-inner {
+        padding: 35px;
+    }
+
+    .hero-banner-img {
+        height: 300px;
+    }
+
+    .services-partners-logo:nth-child(4) {
+        display: none;
+    }
+
+    .services-partners-logo:nth-child(5) {
+        display: none;
+    }
+
+    .services-partners-logo {
+        padding: 15px 0;
+    }
+
+
+    section.property-management-banner h3 {
+        font-size: 45px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 40px;
+    }
+
+    section.property-management-banner p {
+        margin-top: 12px;
+        line-height: 24px;
+        font-size: 16px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 31px;
+        line-height: 37px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 30px;
+        line-height: 39px;
+        margin-bottom: 17px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 30px;
+        line-height: 39px;
+
+    }
+
+    .property-management-full-services h2 {
+        font-size: 30px;
+        line-height: 39px;
+    }
+
+    section.property-management-payments h3 {
+        font-size: 24px;
+    }
+
+    .other-agents-modal .modal-body {
+        padding: 0 1px 11px;
+    }
+
+    .other-agents-modal {
+        top: 21px;
+    }
+
+    .other-agents-modal .modal-content {
+        border-radius: 0;
+    }
+
+    .property-management-full-services .table thead th {
+        line-height: 20px;
+    }
+
+    .savings-calculator-inner {
+        padding: 40px 25px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 25px;
+    }
+
+    .ready-to-get-started-btn a {
+        font-size: 13px;
+    }
+
+    .additional_services_inner .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .copyrights {
+        display: block;
+        margin-top: 0;
+    }
+
+    .copyrights ul {
+        margin-bottom: 0;
+        margin-left: 0;
+    }
+
+    .copyrights p {
+        margin: 9px 0 0;
+    }
+
+    .copyrights ul li {
+        margin: 0 !important;
+    }
+
+    .live-chat-right {
+        padding: 30px 35px;
+
+    }
+
+    .line-heading h3 span {
+        font-size: 24px;
+    }
+
+    .services-nav ul li a {
+        margin-right: 30px;
+        margin-bottom: 6px;
+    }
+
+    button.add-form-btn {
+        width: 100%;
+        margin-left: 0;
+        text-align: left;
+    }
+
+    section.services-booking {
+        margin-top: 0;
+    }
+
+    .my-listings .list-box-listing {
+        display: block;
+    }
+
+    .my-listings .list-box-listing-img {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .my-listings .buttons-to-right {
+        position: unset;
+        margin-top: 48px;
+    }
+
+    .my-listings .dashboard-list-box ul .inner ul li {
+        display: inline-block;
+        margin-bottom: 0;
+    }
+
+    .edit-profile-photo {
+        display: block;
+    }
+
+    .upload-profile-photo {
+        width: 100%;
+        margin-left: 0;
+    }
+
+
+    .my-profile label {
+        margin-top: 0;
+        font-size: 14px;
+        margin-bottom: 3px;
+    }
+
+    .my-profile input {
+        height: 42px;
+    }
+
+    .header-account .container-fluid {
+        padding: 0 30px;
+    }
+
+    .my-listings .notice {
+        display: block;
+    }
+
+    a.addlisting-button {
+        display: block;
+        margin-left: 0;
+        margin-top: 13px;
+    }
+
+    .take-tour-cities {
+        display: none;
+    }
+
+    .banner-card-stars {
+        display: none;
+    }
+
+    .messages .messages-container-inner .message-by-headline span {
+        right: 25px;
+    }
+
+    .messages-container-inner .messages-inbox ul li a {
+        padding: 20px 25px;
+
+    }
+
+    .messages-container-inner .messages-inbox ul {
+        width: 103%;
+        margin: 0 auto;
+    }
+
+    .message .messages-inbox .message-by {
+        margin-left: 0;
+    }
+
+    .messages .messages-container-inner .message-by-headline span {
+        right: 38px;
+    }
+
+    .messages .message-avatars {
+        left: 0;
+
+    }
+
+    .proerty-details-mobile-content .message-details-summary p {
+        font-size: 14px;
+        line-height: 9px;
+    }
+
+    .proerty-details-mobile-content .message-details-summary {
+        margin-top: 0;
+    }
+
+    .proerty-details-mobile-btn a {
+        font-size: 14px;
+        padding: 2px 0;
+        margin-top: 18px;
+    }
+
+    .proerty-details-mobile-content {
+        width: 58%;
+    }
+
+    .proerty-details-mobile-image {
+        width: 12%;
+    }
+
+    .messages-inbox .message-by {
+        margin-left: 70px;
+    }
+
+    .messages-container-inner .messages-inbox {
+        padding: 0 15px;
+    }
+
+    .dashboard-list-box ul .inner h3 a {
+
+        font-size: 16px;
+    }
+
+    section.landlord-banner h3 {
+        font-size: 40px;
+    }
+
+    section.why-advertise-zacoota h2 {
+        font-size: 30px;
+    }
+
+    .get-more-for-less h2 {
+        font-size: 30px;
+    }
+
+    .faqs h2 {
+        font-size: 30px;
+    }
+
+    .landord-pricing-cards .col-md-4 {
+        -ms-flex: 0 0 65%;
+        flex: 0 0 65%;
+        max-width: 65%;
+    }
+
+    ul#heading {
+        display: none;
+    }
+
+    .col-sm-2.sortable-image.text-center {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0 0;
+        display: block;
+        background: white;
+        height: 280px;
+        margin-bottom: 38px;
+
+    }
+
+    .col-sm-2.sortable-image p {
+        margin-bottom: 12px !important;
+    }
+
+    .property-sortable .col-sm-1 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 00%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: left !important;
+    }
+
+    .property-sortable .col-sm-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    ul#data input.form-control {
+        height: 36px;
+        width: 100%;
+    }
+
+    .property-sortable .col-sm-2 {
+        -ms-flex: 0 0 30%;
+        flex: 0 0 30%;
+        max-width: 30%;
+        display: flex;
+        padding: 0 15px;
+    }
+
+    .property-sortable .col-sm-2 input {
+        margin-top: 7px;
+        margin-left: 9px;
+    }
+
+    .property-sortable .col-sm-2 span {
+        margin-top: 7px;
+        margin-left: 9px;
+    }
+
+    ul#data {
+        border: 0;
+    }
+
+    .room-bathroom-number .bath-rooms {
+        position: unset;
+    }
+
+    .room-bathroom-number .form-group {
+        width: 100%;
+    }
+
+    .you-renting-btn .form-check {
+        width: 100%;
+        text-align: left;
+        justify-content: initial;
+    }
+
+    ul#data p {
+        display: block;
+        margin-bottom: 3px;
+        font-size: 15px;
+    }
+
+    .wizard-content .wizard > .content {
+        width: 100% !important;
+    }
+
+    .wizard-content .wizard > .actions > ul {
+        width: 92% !important;
+    }
+
+    .property-sortable ul#data li div.row div:first-child {
+        display: none;
+    }
+
+    ul#data img {
+        width: 100%;
+        object-fit: cover;
+        max-height: 310px;
+        height: 100%;
+        max-width: 100%;
+    }
+
+    ul#data li {
+        position: relative;
+        border-bottom: 1.5px solid #eaeaea;
+        background: #eaeaea63;
+        padding: 0 15px 15px;
+        margin-bottom: 15px;
+    }
+
+    .sortable-remove {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .sortable-remove span {
+        position: absolute;
+        top: 23px;
+        right: -3px;
+        color: white;
+        background: black;
+        border: 2px solid white;
+        border-radius: 50%;
+        font-size: 13px;
+        text-align: center;
+        padding: 4px 6px;
+
+    }
+
+    div#photo_video_practices .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    div#photo_video_practices .modal-content {
+        padding: 20px;
+        border: 0;
+        border-radius: 0;
+        min-height: 100vh;
+        height: 100%;
+    }
+
+    .rotate_90 {
+        width: 187px !important;
+        margin: 10px 0;
+    }
+
+    .rotate_270 {
+        width: 187px !important;
+        margin: 10px 0;
+    }
+
+    .let-home-container {
+        padding: 0 30px;
+    }
+
+    section.let-your-home-banner h3 {
+        font-size: 25px;;
+    }
+
+    section.let-your-home-banner p {
+        font-size: 14px;
+    }
+
+    .let-your-home-services-options h3 {
+        font-size: 19px;
+    }
+
+    .let-your-home-services-options p {
+        font-size: 13px;
+    }
+
+    .let-your-home-services-btn a {
+        font-size: 14px;
+    }
+
+    .community-stories-media-cover-inner {
+        height: 250px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 26px;
+    }
+
+    section.speak-to-us h2 {
+        font-size: 22px;
+        line-height: 30px;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+
+    section.community-stories-single-content h2 {
+        font-size: 24px;
+        margin: 0 0 15px;
+    }
+
+    section.community-stories-content h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .related-stories .listing-item-content {
+        padding: 0 20px;
+        padding-right: 20px;
+    }
+
+    ul#content-slider {
+        height: 310px !important;
+    }
+
+    .preview-img-wrap {
+        height: 310px !important;
+    }
+
+    .check-card {
+        width: 80%;
+    }
+
+    .upgrade-cards .upgrade-card {
+        padding: 30px 20px 0;
+    }
+
+    .upgrade-card-head h3 {
+        font-size: 15px;
+    }
+
+    .upgrade-card-price h4 {
+        font-size: 24px;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 60%;
+        margin-top: 0;
+    }
+
+    .thank-you-content {
+        padding: 35px 0 0;
+    }
+
+    .thank-you-content-inner h2 {
+        font-size: 28px;
+    }
+
+    section.thank-you-content p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+
+    section.upgrade-cards.thank-you-upgrade {
+        padding-top: 30px;
+    }
+
+    section.upgrade-cards h3.headline {
+        font-size: 24px;
+    }
+
+    .thank-you-upgrade p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+
+    .messages-container-inner .message-content {
+        padding: 30px 30px;
+    }
+
+    div#mobile-filter .modal-dialog {
+        max-width: 85%;
+    }
+
+    .fs-container section.search .input-with-icon.location {
+        width: 65%;
+        margin: 0 auto;
+    }
+
+    .send-message-inner .payment-alert p br {
+        display: none;
+    }
+
+    .send-message .landlord-details p {
+        font-size: 14px;
+    }
+
+    .send-message .landlord-details a {
+        font-size: 15px;
+    }
+
+    .tenant-inquiries .property-details {
+        padding: 15px 0 30px;
+        border-bottom: 1px solid #EBEBEB;
+    }
+
+    div#verification_modal .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    div#verification_modal .modal-content {
+        border-radius: 0;
+        height: 100vh;
+        margin: 0;
+        border: 0;
+    }
+
+    div#verification_modal .modal-body {
+        max-height: 100vh;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 87%;
+    }
+
+    .messages-inbox ul li a {
+        padding: 20px 30px;
+    }
+
+    #titlebar h1, #titlebar h2 {
+        font-size: 26px;
+    }
+
+    .steps li .caption {
+        display: none;
+    }
+
+    .steps li .count {
+        width: 28px;
+        height: 28px;
+        line-height: 31px;
+        margin-left: auto;
+        margin-right: unset;
+    }
+
+    .steps li .count:before {
+        width: 28px;
+        height: 28px;
+    }
+
+    .steps li.complete .count:before {
+        line-height: 27px;
+        font-size: 13px;
+    }
+
+    .steps li:after {
+        content: "......";
+        top: 39px;
+        left: -28px;
+        font-size: 37px;
+    }
+
+    .steps {
+        top: 7px;
+    }
+
+    .steps li {
+        width: 20%;
+    }
+
+    .instarent-checkout .order-summery p {
+        font-size: 15px;
+    }
+
+    .card-accepted p {
+        font-size: 14px;
+    }
+
+    .instarent-checkout .price-details h4 {
+        font-size: 22px;
+    }
+
+    .payable-amount h5 {
+        font-size: 19px;
+    }
+
+    .instarent-side-bar .property .property-image {
+        width: 330px;
+    }
+
+    .instarent-banner {
+        padding: 90px 0;
+    }
+
+    .instarent-banner h1 {
+        font-size: 32px;
+    }
+
+    .text-slide .slide {
+        font-size: 32px;
+    }
+
+    .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(24px);
+        right: 0;
+    }
+
+    .booking-info .rent-details table.table {
+        width: 100%;
+    }
+
+    .how-its-work-timeline {
+        margin-top: 30px;
+    }
+
+    .instarent-propery-details .inner {
+        padding: 25px 0;
+    }
+
+    .instarent-propery-details .inner .image {
+        display: none;
+    }
+
+    .insta-breadcrumb ul li .caption span .inner {
+        display: none;
+    }
+
+    .insta-breadcrumb ul li.current .caption span .inner {
+        display: contents;
+    }
+
+    .insta-breadcrumb ul li:hover .caption span .inner {
+        display: block;
+        position: absolute;
+        left: -15px;
+        top: 21px;
+        background-color: white;
+        color: #222;
+        width: 158px;
+        padding: 12px;
+        font-size: 13px;
+        box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.06);
+        z-index: 9999;
+    }
+
+    .insta-breadcrumb ul li:hover .caption span:after {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        margin-left: .255em;
+        vertical-align: .255em;
+        content: "";
+        border-top: 8px solid;
+        border-right: 7px solid transparent;
+        border-bottom: 0;
+        border-left: 7px solid transparent;
+        position: absolute;
+        right: 5px;
+        bottom: -8px;
+    }
+
+    .holding-deposit-view .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(2px);
+    }
+
+    .holding-deposit-view {
+        padding: 0 0 35px;
+        background: #F7F7F7;
+    }
+
+    .Congrat-div {
+        background: #F7F7F7;
+    }
+
+    div#add_tenant .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    div#add_guarantor .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    div#add_guarantor .modal-content {
+        border-radius: 0;
+        border: 0;
+        position: absolute;
+        top: 0;
+    }
+
+    div#add_tenant .modal-content {
+        border-radius: 0;
+        border: 0;
+        position: absolute;
+        top: 0;
+    }
+
+    div#add_guarantor .guarantor-for ul li {
+        width: 30%;
+        margin-bottom: 9px;
+    }
+
+    div#add_guarantor .modal-body {
+        max-height: 74vh;
+        overflow-y: scroll;
+    }
+
+    .holding-deposit-view .email_send {
+        position: unset;
+    }
+
+    .holding-deposit-view .email_send a.send-mail {
+        width: 100%;
+        padding: 0 4px 10px;
+        text-align: left;
+    }
+
+    .holding-deposit-view table.table.mobile-view {
+        display: block;
+    }
+
+    .holding-deposit-view table.table.desktop-view {
+        display: none;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property .property-image {
+        width: 250px;
+        margin-right: 5px;
+    }
+
+    .insta-progress-bar {
+        display: block;
+    }
+
+    .insta-breadcrumb {
+        display: none;
+    }
+
+    section.landlord-title {
+        padding: 30px 0 20px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 26px;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 22px;
+        margin-top: 9px;
+    }
+
+    .landlord-trust .start-saving {
+        min-height: 104px;
+    }
+
+    section.smart-management h2 {
+        font-size: 38px;
+    }
+
+    section.smart-management p {
+        font-size: 23px;
+    }
+
+    section.landlord-servises-card .image {
+        margin-bottom: 0;
+        width: 62%;
+        margin-right: 20px;
+    }
+
+    section.landlord-servises-card p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    section.tenants-main .search-home p {
+        width: 71%;
+    }
+
+    .respond-application a {
+        display: block;
+    }
+
+    .landlord-options h3 {
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+
+    .references-total .col-sm-7 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .references-total .col-sm-5 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .references-total .inner .total {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    .rent-now-references h2 {
+        font-size: 24px;
+    }
+
+    .rent-now-references .inner {
+        margin-top: 15px;
+    }
+
+    .references-total h3 {
+        font-size: 19px;
+
+    }
+
+    .referencetenants {
+        padding: 25px 0 20px;
+    }
+
+    .referencetenants .information p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    .referencetenants .information p:before {
+        top: 0;
+        font-size: 18px;
+    }
+
+    .referencing-options .table tr td:last-child {
+        padding-left: 0;
+    }
+
+    .referencing-options .table tr label.form-check-label {
+        padding: 5px;
+    }
+
+    .referencing-switch input[type=radio]:checked + label svg {
+        height: 14px !important;
+        width: 14px !important;
+    }
+
+    .referencing-options .comparison a.btn {
+        font-size: 13px;
+    }
+
+    .unverified-emails .inner .table {
+        width: 100%;
+    }
+
+    .referencetenants .unverified-emails .inner .table tbody tr td a.btn.update {
+        width: 95px;
+        font-size: 13px;
+    }
+
+    .holding-deposit-tenant .instarent-propery-details .inner .rent-now-btn {
+        right: -7px;
+        transform: translateY(5px);
+    }
+
+    .holding-deposit-tenant .content-wrap .content ul {
+        display: flex;
+        overflow-y: scroll;
+        margin-bottom: 5px;
+    }
+
+    .holding-deposit-tenant .content-wrap .content ul::-webkit-scrollbar {
+        height: 0;
+        width: 0;
+    }
+
+    .holding-deposit-tenant .content-wrap .content ul li {
+        margin: 0 7px 0 0;
+        vertical-align: top;
+        min-width: 290px;
+        background: #f4f4f47a;
+    }
+
+    .holding-deposit-tenant .content .email_send {
+        position: initial;
+        margin-top: 20px;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 {
+        display: block;
+        order: 2;
+        margin: 20px 0 0;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 h3 {
+        width: 100%;
+    }
+
+    .holding-deposit-tenant .content.guarantors_tenants .order_2 .action-btn {
+        width: 100%;
+        text-align: left;
+        margin-top: 10px;
+    }
+
+    .unverified-emails .inner .table tbody tr {
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .unverified-emails .inner .table tbody tr:last-child {
+        border: 0;
+    }
+
+    .unverified-emails .inner .table tbody tr td {
+        display: block;
+        width: 100%;
+        padding: 7px 0 7px;
+    }
+
+    .unverified-emails .inner .table tbody tr td .form-group {
+        margin-bottom: 0;
+    }
+
+    .holding-deposit-tenant .content-wrap .content h3 {
+        font-size: 20px;
+    }
+
+    .holding-deposit-tenant {
+        padding: 25px 0 30px;
+
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 77%;
+    }
+
+    .holding-deposit-landlord .tenancy-details .notice {
+        width: 100%;
+    }
+
+    .holding-deposit-landlord .tenancy-details input {
+        width: 100%;
+    }
+
+    .services-heading h2 {
+        font-size: 25px;
+        margin-bottom: 21px;
+    }
+    .contract-signing .manage-tenancy a {
+        padding: 3px 17px;
+        font-size: 12px;
+    }
+    .contract-signing .content.Signed-by .table td:first-child {
+        width: 25%;
+    }
+    .contract-signing .content.Signed-by .table td {
+        width: 100%;
+
+    }
+    .contract-signing .content.Signed-by .table th{
+        vertical-align: top;
+        line-height: 20px;
+    }
+    .contract-signing .content.Signed-by .table p{
+        margin-bottom: 0;
+    }
+    .contract-signing .content.Signed-by .table tr td .signature {
+        margin-top: 7px;
+    }
+    .contract-signing h2 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    .contract-signing .content.step h6 {
+        font-size: 17px;
+        margin-bottom: 18px;
+    }
+    .contract-signing .content.step p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .contract-signing .content.signature input {
+        width: 75%;
+    }
+    .contract-signing h6 {
+        font-size: 16px;
+    }
+    .contract-signing .manage-contract a {
+        padding: 4px 16px;
+        font-size: 13px;
+    }
+    .contract-signing .table td a {
+        padding: 5px 12px;
+        font-size: 13px;
+    }
+    .contract-signing {
+        padding: 25px 0 40px;
+    }
+    .contract-signing table.table.awaiting td .action-btn {
+        float: none;
+    }
+    .contract-signing table.table.awaiting tr td{
+        display: block;
+    }
+    .login-section {
+        padding: 30px 0 5px;
+    }
+    .login-section .inner {
+        width: 100%;
+    }
+    .register-modal .modal-content {
+        height: 81vh;
+        border-radius: 11px;
+        width: 100%;
+    }
+    .register-modal .modal-dialog {
+        max-width: 100%;
+        width: 493px;
+    }
+    .register-modal .modal-body {
+        padding: 0 20px 18px;
+        max-height: 82vh;
+        overflow-y: scroll;
+    }
+}
+
+
+/*mobile view max width 575*/
+@media only screen and (max-width: 575px) {
+    .main-search-container {
+        height: 237px;
+        padding-bottom: 12px;
+    }
+
+    .main-search-input {
+        padding: 0 0;
+        width: 95%;
+    }
+
+    .main-search-input button.button {
+        margin-right: 4px;
+        height: 37px
+    }
+
+    .main-search-inner p {
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .main-search-inner h3 {
+        font-size: 24px !important;
+        padding-bottom: 5px;
+    }
+
+    h2.headline {
+        font-size: 24px;
+        line-height: 26px;
+    }
+
+    .section-padding {
+        padding: 30px 0;
+    }
+
+    .main-search-input-item input {
+        font-size: 13px !important;
+    }
+
+    .new-listing-item-details a {
+        width: 55%;
+        font-size: 13px;
+    }
+
+    .new-listing-item-details p {
+        font-size: 12px;
+    }
+
+    .new-listing-item-details h3 {
+        font-size: 16px;
+    }
+
+    .listing-item-content h3 {
+        font-size: 16px;
+    }
+
+    .listing-item-content span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .listing-item-content {
+        padding: 0 20px;
+        padding-right: 45px;
+    }
+
+    .savings-calculator-head h3 {
+        font-size: 20px;
+    }
+
+    .savings-calculator .content h6 {
+        font-size: 16px;
+    }
+
+    .savings-calculator .content p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .savings-calculator .card h3 {
+        font-size: 16px;
+    }
+
+    #range_head {
+        font-size: 16px;
+    }
+
+    .savings-calculator .card table tr td {
+        font-size: 16px;
+    }
+
+    .savings-calculator .card table tr td span {
+        font-size: 14px;
+    }
+
+    .total-savings {
+        font-size: 17px;
+    }
+
+    #range_agent_total {
+        font-size: 17px;
+    }
+
+    .our-partners ul li:nth-child(4) {
+        display: none;
+    }
+
+    .our-partners ul li {
+        padding-right: 37px;
+    }
+
+    .our-partners ul li img.img-fluid {
+        height: 20px;
+    }
+
+    h3.headline {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    #footer .footer__top ul li:first-child {
+        display: block;
+    }
+
+    #footer {
+        padding: 55px 0 60px 0;
+    }
+
+    #footer .footer__top {
+        margin-bottom: 30PX;
+    }
+
+    #footer p {
+        font-size: 12px;
+    }
+
+    div#footer li a {
+        font-size: 13px;
+    }
+
+    #footer p.useful-links {
+        font-size: 14px;
+        margin-bottom: 6px;
+        margin-top: 12px;
+    }
+
+    #footer .footer__top {
+        margin-bottom: 20PX;
+    }
+
+    #footer .sm-links__item {
+        font-size: 20px;
+        line-height: 2rem;
+    }
+
+    .our-partners .our-partners-wrap img.img-fluid {
+        height: 60px;
+
+    }
+
+    .partner-banner-desktop {
+        display: none;
+    }
+
+    .partner-banner-mobile {
+        display: block;
+    }
+
+    .simple-slick-carousel .slick-slide {
+        padding-right: 9px;
+        margin-left: -3.3px;
+    }
+
+    section.steps_banner {
+        display: none;
+    }
+
+    section.main-silder .container {
+        width: 100%;
+
+    }
+
+    a.lSPrev:before {
+        font-size: 14px;
+        top: 1px;
+        left: 8px;
+    }
+
+    a.lSNext:before {
+        font-size: 14px;
+        top: 2px;
+        left: 10px;
+    }
+
+    .lSAction > a {
+        width: 28px;
+        height: 28px
+    }
+
+
+    .heading-location h2 {
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+
+    .heading-location h4 {
+        font-size: 14px;
+    }
+
+    .over-view-heading h6 {
+        font-size: 19px;
+        margin-bottom: 30px;
+    }
+
+    div#overview p {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+
+    div#overview p span {
+        font-weight: 600;
+        color: black;
+    }
+
+    img.img-fluid.custom-icons {
+        display: inline-flex;
+        width: 26px;
+        height: 26px;
+        margin-right: 15px;
+    }
+
+    .col-12.col-sm-6.date_p p {
+        padding-left: 43px;
+        display: block;
+        margin-top: -2px;
+        padding-bottom: 20px;
+    }
+
+    .property-features h6 {
+        margin-bottom: 30px;
+        font-size: 18px;
+    }
+
+    .overview_description h6 {
+        font-size: 18px;
+    }
+
+    .property-features p {
+        padding-bottom: 10px;
+    }
+
+    .overview-details .col-8.col-sm-6 {
+        margin-bottom: 20px;
+    }
+
+    .features-inner .form-inline {
+        width: 47.5%;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 46.5%;
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 34px;
+        line-height: 40px;
+    }
+
+    .partners h3.headline {
+        font-size: 18px;
+        margin-bottom: 0;
+        margin-top: 15px;
+    }
+
+    section.our-service-steps .heading-text.text-center {
+        margin: 0 0 25px;
+    }
+
+    section.our-service-steps {
+        padding-top: 35px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 26px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 26px;
+    }
+
+    .black-card .list-star h6:after {
+
+        padding-left: 125px;
+    }
+
+    .green-card .list-star h6:after {
+        top: 36px;
+        padding-left: 70px;
+    }
+
+    .additional_services h3 {
+        font-size: 26px;
+    }
+
+    .additional_services p {
+        font-size: 14px;
+    }
+
+    .hmo-services h3 {
+        font-size: 28px;
+    }
+
+    .hmo-services-inner p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .hmo-price h4 {
+        font-size: 20px;
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .date-or {
+        margin-bottom: 18px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+
+    .search-img-wrap img {
+        border-radius: 0;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 59%;
+    }
+
+    .line-heading h3:before {
+        width: 32%;
+    }
+
+    .line-heading h3:after {
+        width: 32%;
+    }
+
+    .line-heading h3 span {
+        font-size: 26px;
+    }
+
+    .pricing-card-image {
+        width: 50%;
+        margin: 0;
+        margin-top: 25px;
+    }
+
+    .ready-to-get-started-btn {
+        text-align: center;
+    }
+
+    section.ready-to-get-started h2 {
+        text-align: center;
+    }
+
+    section.ready-to-get-started p {
+        text-align: center;
+    }
+
+    .services-booking label.form-check-label {
+        width: 100%;
+    }
+
+    div#group_viewing .modal-dialog {
+        max-width: 100%;
+    }
+
+    .start-saving .icon {
+        width: 40%;
+        position: relative;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 20px;
+        margin-top: 9px;
+    }
+
+    .start-saving .content {
+        width: 62%;
+        padding: 16px 18px 0;
+    }
+
+    section.smart-management h2 {
+        font-size: 34px;
+        margin-bottom: 6px;
+    }
+
+    section.smart-management p {
+        font-size: 21px;
+    }
+
+    section.landlord-servises-card .service_card {
+        display: block;
+    }
+
+    section.landlord-servises-card .image {
+        margin-bottom: 20px;
+        width: 100%;
+        margin-right: 0;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    section.tenants-main .search-home p {
+        font-size: 13px;
+        line-height: 20px;
+        width: 80%;
+    }
+
+    section.tenants-main .search-home {
+        height: 220px;
+        padding: 30px 0
+    }
+    .contract-signing .content.manage-contract .flex {
+        display: block;
+    }
+}
+
+/*max width 476*/
+@media only screen and (max-width: 476px) {
+    .carousel-item.slick-lide.slick-current.slick-active {
+        width: 276px !important;
+        padding-left: 10px;
+    }
+
+    .form-inline.property-description-btn .custom-control-inline {
+        width: 100%;
+        margin-right: 0;
+        display: flow-root;
+    }
+
+    .form-check.write-desc {
+        margin-bottom: 10px;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 45.5%;
+    }
+
+    .seclect-address-manually {
+        margin-top: -12px;
+        margin-left: 0;
+    }
+
+    .post-code-row {
+        margin-bottom: 0;
+    }
+
+    .add-property-details-inner .post-code-row .form-group {
+        margin-bottom: 0;
+    }
+
+    .add-listing-heading h2 {
+        font-size: 16px;
+    }
+
+    .room-bathroom-number {
+        text-align: center;
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 385px !important;
+    }
+
+    .hmo-gallery-mobile .content-slider li {
+        padding-right: 12px;
+    }
+
+    .black-lives-inner {
+        padding: 106px 23px 40px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 26px;
+    }
+
+    .black-lives-inner a {
+        font-size: 13px;
+        padding: 2px 14px;
+    }
+
+    div#sign-up-dialog {
+
+        max-width: 380px;
+    }
+
+    div#sign-in-dialog {
+        max-width: 380px;
+    }
+
+    div#reset-pass-dialog {
+        max-width: 380px;
+    }
+
+    button#formbut {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+    .services-booking p {
+        font-size: 15px;
+    }
+
+    .services-heading {
+        text-align: center;
+        margin: 20px 0 0;
+    }
+
+    .services-booking ul.radio-button-list {
+        padding-left: 0;
+        margin-bottom: 0 !important;
+        margin-top: 15px;
+    }
+
+    .mob-filter-btn {
+        display: block;
+    }
+
+    div#slider-range-mobile .noUi-base {
+        height: 6px;
+    }
+
+    div#slider-range-mobile .noUi-horizontal {
+        height: 7px;
+    }
+
+    div#slider-range-mobile .noUi-horizontal .noUi-handle {
+        width: 20px !important;
+        height: 20px;
+    }
+
+
+    .slider-labels {
+        margin-top: 14px;
+        margin-bottom: 30px;
+    }
+
+
+    /*#header{*/
+    /*    z-index: -1;*/
+    /*}*/
+    .pagination ul, .pagination-next-prev ul {
+        padding: 0;
+        list-style-type: none;
+        width: 100%;
+    }
+
+    .pagination-container.margin-top-15.margin-bottom-40 {
+        margin-bottom: 12px !important;
+        margin-top: 0 !important;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 58%;
+    }
+
+    .pricing-cards-mobile {
+        display: block;
+    }
+
+    table.table.pricing-table {
+        display: none;
+    }
+
+    .room-bathroom-number {
+        text-align: left !important;
+    }
+
+    .room-bathroom-number .form-group {
+        width: 100%;
+    }
+
+    .room-bathroom-number .form-group:last-child {
+        right: 0;
+    }
+
+    ul#heading {
+        display: none;
+    }
+
+
+    .wizard-content .wizard.wizard-circle > .steps > ul > li:after, .wizard-content .wizard.wizard-circle > .steps > ul > li:before {
+        border-left: 0 !important;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 37px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 34px;
+    }
+
+    section.property-management-banner p br {
+        display: none;
+    }
+
+    section.property-management-banner p {
+        margin-top: 12px;
+        line-height: 21px;
+        font-size: 15px;
+    }
+
+    section.property-management-banner {
+        padding: 50px 0 60px;
+        text-align: center;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 29px;
+        line-height: 33px;
+    }
+
+    .savings-calculator .card {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .total-savings {
+        width: 100%;
+    }
+
+    .property-management-covered h2 {
+        font-size: 28px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 28px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 28px;
+    }
+
+    .property-management-full-services .table tbody th {
+
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .ready-to-get-started-btn a {
+
+        display: block;
+        line-height: 20px;
+        text-transform: capitalize;
+    }
+
+    .savings-calculator-inner a {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .savings-calculator-inner .banner-cards-second-col {
+        border-left: 0;
+        padding-left: 15px;
+        padding-bottom: 30px;
+    }
+
+    .additional_services_card {
+
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        display: block;
+
+    }
+
+    .services_card_title {
+        text-align: center;
+        min-height: auto;
+        display: block;
+    }
+
+    .services_card_title h5 {
+        margin: 10px 0 20px;
+    }
+
+    #breadcrumbs {
+
+        right: unset;
+        font-size: 13px;
+        top: -15px;
+        left: 0;
+    }
+
+
+    #titlebar h1, #titlebar h2 {
+        font-size: 26px;
+        line-height: 1;
+        margin: 10px 0 3px 0;
+    }
+
+    #dashboard #titlebar h2 {
+        font-size: 28px;
+    }
+
+    #dashboard #titlebar {
+        margin: 0 0 20px 0;
+    }
+
+    #breadcrumbs ul li {
+        margin: 0 5px 0 0;
+    }
+
+    .header-account .container-fluid {
+        padding: 0 23px;
+    }
+
+
+    .proerty-details-mobile-content .message-details-summary {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .proerty-details-mobile-btn {
+        display: none;
+    }
+
+    .proerty-details-mobile-content {
+        width: 80%;
+    }
+
+    .proerty-details-mobile-content .message-details-summary p {
+        font-size: 13px;
+        line-height: 9px;
+    }
+
+    .proerty-details-mobile-content .message-details-summary a {
+        margin-bottom: 8px;
+        display: block;
+        font-size: 15px;
+    }
+
+    .proerty-details-mobile-image {
+        max-width: 149px;
+        margin-right: 15px;
+        width: 14%;
+
+        height: 39px;
+
+    }
+
+    .proerty-details-mobile-image img {
+        height: 100%;
+    }
+
+    .single-message .messages-headline h4.user_name {
+        width: 77% !important;
+        font-size: 15px;
+    }
+
+    .messages .dashboard-content {
+        margin-top: -15px;
+        min-height: 95vh;
+    }
+
+    .sidebar-nav {
+        height: 100%;
+    }
+
+    section.landlord-banner {
+        padding: 65px 0 280px;
+    }
+
+    .landord-pricing-cards .col-md-4 {
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+
+    section.why-advertise-zacoota h2 {
+        font-size: 28px;
+    }
+
+    .get-more-for-less h2 {
+        font-size: 28px;
+    }
+
+    .faqs h2 {
+        font-size: 28px;
+    }
+
+    section.everything-you-need .ready-to-get-started-btn a {
+        display: initial;
+        font-size: 14px;
+    }
+
+    section.everything-you-need .ready-to-get-started-btn a .fa {
+        font-size: 11px;
+        margin-left: 10px;
+    }
+
+    section.landord-pricing-cards p.questionsetlist2 {
+        min-height: 0;
+        margin-bottom: 25px;
+    }
+
+    p.questionset-section-desc b span {
+        font-size: 34px;
+    }
+
+    section.everything-you-need h2 {
+        font-size: 28px;
+    }
+
+    section.landord-pricing-cards h3 {
+        font-size: 23px;
+    }
+
+    section.landord-pricing-cards p.questionsetlist1 {
+        font-size: 17px;
+    }
+
+    ul#data img {
+        max-height: 250px;
+    }
+
+    .property-sortable .col-sm-2 {
+        -ms-flex: 0 0 40%;
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+
+    .youtube-url-wrap input {
+        width: 100%;
+    }
+
+    .youtube-url-wrap {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .youtube-upload-btn {
+        width: 100%;
+    }
+
+    .you-renting-btn .form-check:last-child label {
+        margin-left: 27px;
+    }
+
+    .property-description-btn label {
+        margin-left: 27px;
+    }
+
+    .let-your-home-services-btn {
+        width: 80%;
+        text-align: right;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .let-your-home-services-btn a {
+        font-size: 14px;
+        width: 100%;
+        display: block;
+        text-align: center;
+        padding: 5px 14px;
+    }
+
+    .let-your-home-services-options {
+        display: block;
+        padding-bottom: 33px;
+        padding-top: 28px;
+    }
+
+    .let-your-home-sidebar {
+        width: 80%;
+    }
+
+    .let-your-home-services-options .description {
+        width: 100%;
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .let-your-home-services-options .icon {
+        margin: 0 auto;
+    }
+
+    ul#content-slider {
+        height: 250px !important;
+    }
+
+    .preview-img-wrap {
+        height: 250px !important;
+    }
+
+    p.preview-publish-subtitle {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .location-title {
+        margin: 22px 0;
+    }
+
+    .location-title h2 {
+        font-size: 22px;
+    }
+
+    .location-title h4 {
+        font-size: 15px;
+    }
+
+    .over-view-heading h6 {
+        font-size: 17px;
+        margin-bottom: 22px;
+    }
+
+    .overview_description h6 {
+        font-size: 17px;
+    }
+
+    .property-features h6 {
+        margin-bottom: 22px;
+        font-size: 17px;
+    }
+
+    .check-card {
+        width: 100%;
+    }
+
+    ul#search-slider {
+        height: 277px !important;
+        overflow: hidden;
+    }
+
+    .search-img-wrap {
+        height: auto;
+    }
+
+    .upgrade-card-row .col-md-4:first-child .upgrade-card {
+        border-right: 1px solid #EBEBEB;
+        margin-bottom: 50px;
+    }
+
+    .upgrade-cards .upgrade-card {
+        min-height: auto;
+        margin-bottom: 14px;
+    }
+
+    .row.upgrade-card-row {
+        width: 65%;
+        margin-top: 0;
+    }
+
+    .upgrade-card-body {
+        min-height: auto;
+        padding-bottom: 15px;
+    }
+
+    section.upgrade-cards {
+        padding: 35px 0;
+    }
+
+    section.upgrade-cards h3.headline {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+
+    .upgrade-cards .payment-ways-img {
+        margin: 10px auto;
+        width: 100%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 75%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .upgrade-card-row .col-md-4:first-child .upgrade-card {
+        margin-bottom: 15px;
+    }
+
+    div#mobile-filter .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+        overflow: hidden;
+    }
+
+    div#mobile-filter .modal-content {
+        border-radius: 0;
+        min-height: 100vh;
+    }
+
+    div#mobile-filter .modal-body {
+        padding: 0 20px;
+        max-height: 78vh;
+        overflow-y: scroll;
+        margin: 0;
+    }
+
+    .listing-item-container.list-layout .listing-item {
+        margin: 0 20px;
+    }
+
+    .tenant-inquiries .property-details {
+        padding: 10px 0 65px;
+        position: relative;
+    }
+
+    .tenant-inquiries .property-details .property-image {
+        width: 82px;
+        height: 58px;
+    }
+
+    .flex.property-details-btn {
+        position: absolute;
+        bottom: 15px;
+        left: 0;
+    }
+
+    section.tenant-inquiries .title h3 {
+        font-size: 24px;
+    }
+
+    .tenant-inquiries-inner h4 {
+        font-size: 21px;
+    }
+
+    .tenant-inquiries-inner h5 {
+        font-size: 19px;
+    }
+
+    .tenant-inquiries-messages ul li .message-by {
+        width: calc(100% - 75px);
+    }
+
+    .tenant-inquiries-messages ul li .message-avatar {
+        height: 45px;
+        width: 45px;
+    }
+
+    .tenant-inquiries-messages ul li .message-by h4 {
+        font-size: 16px;
+    }
+
+    .tenant-inquiries-messages ul li span.like-icon {
+        font-size: 21px;
+    }
+
+    .messages .messages-headline h4 {
+        width: auto;
+    }
+
+    .messages-headline h4.user_name {
+        width: 80% !important;
+        text-align: center;
+    }
+
+    .messages-container .messages-inbox {
+        box-shadow: none;
+        border-radius: 0;
+        border-left: 0;
+        border-right: 0;
+    }
+
+    .messages-container .messages-inbox ul li a {
+        padding: 20px 0;
+    }
+
+    .messages-inbox ul li.unread:before {
+        left: -14px;
+    }
+
+    .messages-inbox .message-avatar img {
+        display: inline-block;
+        width: 47px;
+        height: 47px;
+        border-radius: 50%;
+        top: 5px;
+    }
+
+    .steps li:after {
+        content: ".....";
+        top: 38px;
+        left: -8px;
+        font-size: 34px;
+    }
+
+    .rent-now-payment-details-box p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .card-accepted p {
+        font-size: 13px;
+    }
+
+    .instarent-checkout .price-details h4 {
+        font-size: 18px;
+    }
+
+    .instarent-checkout .order-summery h6 {
+        font-size: 16px;
+    }
+
+    .instarent-checkout .order-summery p {
+        font-size: 14px;
+    }
+
+    .payable-amount h5 {
+        font-size: 16px;
+    }
+
+    .creditcard-logos {
+        top: -4px;
+    }
+
+    .creditcard-logos img {
+        width: 100px;
+    }
+
+    .rent-now-payment-details-box p:before {
+        width: 28px;
+        height: 28px;
+    }
+
+    form#payment-form button#submit {
+        width: 100%;
+    }
+
+    .instarent-side-bar .property {
+        display: block;
+    }
+
+    .instarent-side-bar .property .property-image {
+        width: 100%;
+        margin: 0;
+    }
+
+    .instarent-side-bar img {
+        height: 160px;
+        border-radius: 8px 8px 0 0;
+        margin: 0;
+    }
+
+    .instarent-banner h1 {
+        font-size: 28px;
+    }
+
+    .text-slide .slide {
+        font-size: 28px;
+    }
+
+    .instarent-propery-details .inner .rent-now-btn {
+        position: unset;
+        transform: unset;
+        text-align: center;
+        margin-top: 17px;
+    }
+
+    .instarent-propery-details .inner .rent-now-btn a {
+        font-size: 13px;
+    }
+
+    section.how-its-work {
+        margin: 25px 0;
+    }
+
+    section.how-its-work h2 {
+        font-size: 26px;
+    }
+
+    .how-its-work-step .col-right h5 {
+        font-size: 18px;
+    }
+
+    .booking-info .wrap .mobile-title {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .how-its-work-step .col-left {
+        display: none;
+    }
+
+    .how-its-work-step .col-right img {
+        display: block;
+        margin-bottom: 25px;
+    }
+
+    .booking-info .wrap .content h5 {
+        display: none;
+    }
+
+    .booking-info .wrap p {
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+
+    .booking-info .wrap p span {
+        display: block;
+    }
+
+    .booking-info-btn a.secure-btn {
+        font-size: 13px;
+        padding: 12px 13px;
+    }
+
+    .how-its-work-step .col-right {
+        width: 100%;
+    }
+
+    .instarent-propery-details .inner .content {
+        width: 100%;
+    }
+
+    .Congrat-div .deposit {
+        display: flex;
+    }
+
+    .Congrat-div .deposit p {
+        line-height: 22px;
+        padding-left: 10px;
+    }
+
+    .holding-deposit-view .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(2px);
+        position: unset;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property-details {
+        margin-top: 8px;
+        width: 100%;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property .property-image {
+        width: 100%;
+        margin-right: 5px;
+        height: 170px;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property .property-image img {
+        border-radius: 8px 8px 0 0;
+    }
+
+    .holding-deposit-landlord .instarent-side-bar .property {
+        border-radius: 8px;
+    }
+
+    .holding-deposit-landlord .inner h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .holding-deposit-landlord .inner .guarantors a.btn.accept {
+        padding: 0;
+    }
+
+    .holding-deposit-landlord .inner .guarantors a.btn.reject {
+        padding: 0;
+    }
+
+    .respond-application p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .respond-application a {
+        display: initial;
+    }
+
+    .holding-deposit-landlord .guarantors_tenants.landlord_option p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .holding-deposit-landlord .guarantors_tenants.landlord_option .action-btn a {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .respond-application p b {
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .holding-deposit-landlord .guarantors a.btn.accept {
+        padding: 0 5px;
+    }
+
+    .holding-deposit-landlord .guarantors a.btn.reject {
+        padding: 0;
+    }
+
+    .rent-now-references h2 {
+        font-size: 22px;
+    }
+
+    .rent-now-references {
+        padding: 30px 0 15px;
+    }
+
+    .referencetenants .referencing-options h3 {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+
+    .referencetenants .unverified-emails .inner {
+
+        padding: 20px;
+    }
+
+    .referencing-options .table tr td:first-child {
+        width: 78%;
+    }
+
+    .referencing-options .table tr td .select-wrap {
+        width: 60%;
+    }
+
+    .referencing-options .table tr td select.form-control {
+        margin-top: 10px;
+        height: 33px;
+        font-size: 14px;
+    }
+
+    .referencing-options .table tr td:last-child {
+        vertical-align: bottom;
+    }
+
+    .unverified-emails .inner table.table.desktop-view {
+        display: none;
+    }
+
+    .unverified-emails .inner table.table.mobile-view {
+        display: block;
+    }
+
+    .unverified-emails .inner .table tbody tr td:first-child {
+        width: 70%;
+    }
+
+    .unverified-emails .inner .table tbody tr td:last-child {
+        vertical-align: bottom;
+    }
+
+    .unverified-emails .inner .table tbody tr td .form-group {
+        margin-bottom: 9px;
+        margin-top: 9px;
+    }
+
+    .unverified-emails .inner .table tbody tr td a.btn.update {
+        padding: 7px 20px;
+    }
+
+    .holding-deposit-tenant .guarantor-request .inner .action-btn {
+        display: block;
+        width: 100%;
+    }
+
+    .guarantor-request .inner .action-btn a.btn.add {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .holding-deposit-tenant .information {
+        padding: 15px 15px;
+    }
+
+    .holding-deposit-tenant .content-wrap .content h3 {
+        font-size: 19px;
+    }
+
+    .holding-deposit-tenant .content-wrap .content ul {
+        margin-top: 12px;
+    }
+
+    .holding-deposit-tenant .content-wrap .content {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-tenant .instarent-propery-details .inner .rent-now-btn {
+        transform: translateY(0px);
+        position: unset;
+    }
+
+    .holding-deposit-landlord .new-applicant .action-btn {
+        width: 100%;
+        display: block;
+    }
+
+    .tenancy-applicant ul li {
+        min-width: 235px;
+    }
+
+    .tenancy-applicant ul li .flex {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .tenancy-applicant ul li .flex .image {
+        width: 35%;
+        margin: 0 auto;
+    }
+
+    .tenancy-applicant ul li .cd-footer .action-btn a {
+        padding: 7px 9px;
+        margin: auto 4px 9px;
+        min-width: 75px;
+    }
+
+    .holding-deposit-landlord .property-detail {
+        padding: 20px 20px;
+    }
+
+    .tenancy-applicant {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-landlord .Congrat_div {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-landlord .heading-text {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-landlord .tenancy-details {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-landlord .new-applicant {
+        padding: 20px 20px;
+    }
+
+    .holding-deposit-landlord .landlord_option {
+        padding: 20px 20px;
+    }
+    .contract-signing .content.premises .table tr td {
+        font-size: 14px;
+        min-width: 122px;
+        line-height: 18px;
+    }
+    .contract-signing .deposits .table td{
+        font-size: 14px;
+        min-width: 122px;
+        line-height: 18px;
+        word-wrap: break-word;
+        word-break: break-word;
+    }
+    .content.action-btn {
+        padding: 20px 30px 15px;
+    }
+    .content.action-btn .flex {
+        float: none;
+
+    }
+    .content.action-btn a {
+        padding: 3px 14px;
+        font-size: 12px;
+    }
+    .contract-signing .content.manage-tenancy .flex {
+        display: block;
+    }
+    .contract-signing .manage-tenancy a {
+        margin-top: 9px;
+
+    }
+    .contract-signing .content.signature input {
+        width: 100%;
+    }
+    .contract-signing .awaiting-signature .info {
+        padding: 12px;
+    }
+    .contract-signing .info-box{
+        padding: 12px;
+    }
+    .contract-signing .legal-covered ul li{
+        width: 100%;
+    }
+    .login-section .inner {
+        padding: 3px 0 35px;
+    }
+    .login-section {
+        padding: 20px 0 5px;
+    }
+    .register-modal .modal-content {
+        height: 95vh;
+        border-radius: 0;
+        width: 100%;
+        border: 0;
+    }
+    .register-modal .modal-dialog {
+        max-width: 100%;
+        width: 100%;
+        margin: 0;
+    }
+    .register-modal .modal-body {
+        padding: 0 20px 60px;
+        max-height: 82vh;
+        overflow-y: scroll;
+    }
+}
+
+/* mx width 420*/
+@media only screen and (max-width: 420px) {
+    #logo {
+        margin-top: 0;
+    }
+
+    h2.headline {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .main-search-input button.button span {
+        display: none;
+    }
+
+    .main-search-input {
+        border-radius: 26px !important;
+        padding: 0 3px;
+    }
+
+    .main-search-input button.button {
+        border-radius: 26px;
+        padding: 0 10px;
+        margin-right: 1px
+    }
+
+    .main-search-container {
+        height: 236px;
+        padding-bottom: 17px;
+    }
+
+    .our-partners-wrap.text-center {
+        width: 90%;
+    }
+
+    .mobile-nav-button p i.fa.fa-bars {
+        color: #000000;
+        font-size: 22px;
+    }
+
+    section.section-padding.slider-visted {
+        padding-bottom: 0;
+    }
+
+    .savings-calculator-head h3 {
+        font-size: 18px;
+    }
+
+    .savings-calculator .card {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+
+    }
+
+    .total-savings {
+        width: 100%;
+    }
+
+    .our-partners ul li {
+        padding-right: 12px;
+    }
+
+    .our-partners ul {
+        width: 95%;
+    }
+
+    .price-cards .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    h3.headline {
+        text-align: left;
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    section.price-cards.section-padding {
+        padding-top: 20px;
+    }
+
+    .footer__top li img {
+        width: 120px !important;
+    }
+
+    #footer {
+        padding: 55px 0 35px 0;
+    }
+
+    .savings-calculator .content.text-black {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .our-partners .our-partners-wrap img.img-fluid {
+        height: 47px;
+    }
+
+
+    .listing-item {
+        border-radius: 9px;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 80%;
+    }
+
+    .overview_description button {
+        width: 100%;
+    }
+
+    .add-listing-heading {
+
+        padding: 10px 20px;
+    }
+
+    input#whole_prperty {
+        width: 18px;
+        height: 26px;
+    }
+
+    input#only_room {
+        width: 18px;
+        height: 26px;
+    }
+
+    .you-renting-inner a label {
+
+        margin-left: 10px;
+    }
+
+    a.active input#whole_prperty:before {
+
+        top: 6px;
+        left: 2px;
+        width: 14px;
+        height: 14px;
+    }
+
+    a.active input#only_room:before {
+        top: 6px;
+        left: 2px;
+        width: 14px;
+        height: 14px
+    }
+
+    .room-bathroom-number .form-group {
+        width: 100%;
+    }
+
+    .room-bathroom-number .form-group:last-child {
+        right: 0;
+    }
+
+    .property-description-btn label:before {
+
+        width: 20px;
+        height: 19px;
+        position: absolute;
+        top: 3px;
+        left: 11px;
+    }
+
+    .property-description-btn input[type=radio]:checked + label::after {
+        top: 6px;
+        left: 14px;
+        width: 14px;
+        height: 13px
+    }
+
+    .property_type input[type=radio]:checked + label::after {
+        top: 6px;
+        left: 4px;
+        width: 14px;
+        height: 13px;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 100% !important;
+    }
+
+    .you-renting-inner a:first-child {
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+
+    .you-renting-inner .nav-tabs {
+        border: 0;
+        margin-bottom: 11px;
+    }
+
+    .file-preview-thumbnails.clearfix {
+        width: 100%;
+    }
+
+    .file-drop-zone {
+        margin: 0;
+        padding: 0;
+    }
+
+    .file-preview-thumbnails div:first-child .file-preview-frame.krajee-default.kv-preview-thumb .kv-file-content {
+        width: 100%;
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 137px;
+    }
+
+    .you-renting .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .add-property-details .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .property-description .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .tenancy-details .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .features .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .preferred-tenant .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .file-upload .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .terms .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 9px;
+    }
+
+    .add-listing-heading i.fa.fa-check-square {
+        display: initial;
+    }
+
+    .you-renting-inner a label:before {
+        width: 20px;
+        height: 19px;
+        position: absolute;
+        top: 3px;
+        left: 0;
+    }
+
+    .you-renting-inner a.active label:after {
+        top: 5px;
+        left: 2px;
+        width: 16px;
+        height: 15px
+    }
+
+    .hero-banner-btn button:first-child {
+        margin-bottom: 15px;
+    }
+
+    .partners h3.headline {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    section.our-service-steps .card-head h5 {
+        font-size: 18px;
+    }
+
+    section.our-service-steps .card i.fa {
+        font-size: 21px;
+    }
+
+    section.our-service-steps .heading-text.text-center {
+        margin-left: -13px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 24px;
+    }
+
+    .our-price-cards p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    section.our-price-cards {
+        padding: 35px 0 0;
+    }
+
+    .black-card .list-star h6:after {
+        padding-left: 63px;
+    }
+
+    .green-card .list-star h6:after {
+        top: 51px;
+        padding-left: 60px;
+    }
+
+    .additional_services h3 {
+        font-size: 24px;
+        margin-bottom: 3px;
+    }
+
+    .hmo-services h3 {
+        font-size: 24px;
+    }
+
+    section.additional_services {
+        padding-bottom: 25px;
+    }
+
+    .our-price-card-head h2 {
+        font-size: 18px;
+        min-height: auto;
+    }
+
+    .our-price-card-head h1 {
+        font-size: 26px;
+    }
+
+    .black-card .list-star h6 {
+        padding-left: 0;
+    }
+
+    .green-card .list-star h6 {
+        padding-left: 0;
+    }
+
+    .green-card .list-star h6 br {
+        display: block;
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 347px !important;
+    }
+
+    .hmo-image {
+        height: 267px !important;
+    }
+
+    .hmo-services-inner p.hmo-description {
+        width: 100%;
+        line-height: 23px;
+        text-align: center;
+    }
+
+    .black-lives-inner p {
+        width: 100%;
+    }
+
+    .black-lives-inner a {
+        position: unset;
+        padding: 8px 15px;
+    }
+
+    .black-lives-inner {
+        padding: 80px 23px 40px;
+    }
+
+    .hmo-btn a {
+        width: 43%;
+        padding: 11px;
+        font-size: 14px;
+    }
+
+    .hmo-price {
+        margin: 40px 0 20px;
+    }
+
+    .hmo-services-inner p {
+        font-size: 14px;
+        line-height: 19px;
+        text-align: left;
+    }
+
+    .mfp-container {
+        padding: 0;
+    }
+
+    .mfp-container {
+        height: auto;
+    }
+
+    div#sign-up-dialog {
+        max-width: 100%;
+        position: absolute;
+        top: -14px;
+        border-radius: 0;
+        margin-top: 0;
+    }
+
+    div#sign-in-dialog {
+        max-width: 420px;
+        border-radius: 0;
+        position: absolute;
+        top: -14px;
+        left: 0;
+    }
+
+    div#reset-pass-dialog {
+        max-width: 100%;
+        border-radius: 0;
+        position: absolute;
+        top: -14px;
+    }
+
+    #sign-in-dialog input {
+        height: 40px;
+    }
+
+    #sign-in-dialog input::placeholder {
+        font-size: 14px;
+    }
+
+    .login-btn {
+        height: 36px;
+        font-size: 14px;
+    }
+    button.btn.sign-up-btn {
+        height: 41px;
+        font-size: 14px;
+    }
+    .google-signin {
+        height: 40px;
+        font-size: 14px;
+        line-height: 16px;
+
+    }
+
+    span.lost_password a {
+        font-size: 13px;
+    }
+
+    #sign-in-dialog .mfp-close:before {
+
+        font-size: 14px;
+        left: 100%;
+    }
+
+    div#sign-up-dialog input {
+        height: 40px;
+    }
+
+    div#sign-up-dialog input::placeholder {
+        font-size: 14px;
+    }
+
+    div#sign-up-dialog button.btn.sign-up-btn {
+        height: 40px;
+    }
+
+    .facebook-signin {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .apple-signin {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .sign-up-form.style-1 {
+        padding: 0 20px 35px;
+    }
+
+    #sign-up-dialog .mfp-close::after, #sign-up-dialog .mfp-close::before, #small-dialog .mfp-close::after, #small-dialog .mfp-close::before {
+        top: -12px;
+        height: 9px;
+        font-size: 21px;
+        transition: 0s;
+        right: -15px !important;
+        left: unset;
+    }
+
+    div#reset-pass-dialog input#reset_pass {
+        height: 40px;
+    }
+
+    button.btn.btn-primary.reset-btn {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    div#reset-pass-dialog input::placeholder {
+        font-size: 14px;
+    }
+
+    div#reset-pass-dialog p {
+        font-size: 14px;
+    }
+
+    .services-booking-inner {
+        border: 0;
+        padding: 0;
+    }
+
+    .services-booking-head {
+        border: 0;
+        margin-bottom: 20px;
+    }
+
+    .services-heading h2 {
+        font-size: 22px;
+    }
+
+    .services-booking-head h3 {
+        font-size: 16px;
+    }
+
+    .services-nav button p i.fa.fa-bars {
+        color: white;
+        font-size: 21px;
+    }
+
+    .services-booking-inner .post-code-row .form-group {
+        margin-bottom: 3px;
+    }
+
+
+    .location-heading h2 {
+        font-size: 20px;
+    }
+
+    /*.listings-main .panel-dropdown {*/
+    /*    position: unset;*/
+    /*    display: block;*/
+    /*    width: 100%;*/
+    /*}*/
+    .listings-main .panel-dropdown a {
+        width: 100%;
+    }
+
+    .listings-main .listing-item-container.list-layout .listing-item-inner {
+        padding-left: 0;
+        padding-top: 10px;
+    }
+
+    .listings-main .listing-item-container.list-layout span.like-icon:before {
+        top: 15px;
+    }
+
+    .listings-main .fs-inner-container.map-fixed {
+        height: calc(100vh - 220px);
+    }
+
+    .listings-main .panel-dropdown .panel-dropdown-content {
+        max-width: 93%;
+        margin: 0 auto;
+        top: 115px;
+        left: 14px;
+    }
+
+    .listings-main .fs-container .fs-listings {
+        padding: 0 3px;
+        margin: 0;
+    }
+
+    .listings-main .showing-results {
+        margin-left: 0;
+    }
+
+    .listings-main .margin-top-30 {
+        margin-top: 0 !important;
+    }
+
+    .listings-main h4 {
+        font-size: 16px;
+
+    }
+
+    .listings-main .listing-item-container.list-layout .listing-item-inner p {
+        display: none;
+    }
+
+    /*.listings-main .pricing {*/
+    /*    position: absolute;*/
+    /*    bottom: 0;*/
+    /*    right: unset;*/
+    /*    left: 3px;*/
+    /*}*/
+    .listing-item-container.list-layout .listing-item-inner h3 {
+        color: #00838D;
+    }
+
+    .listings-main .listing-item-container.list-layout .listing-item-inner span {
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .listings-main .location-detail ul {
+        margin-top: -1px;
+    }
+
+    .listing-item-container.list-layout {
+        margin-bottom: 12px;
+    }
+
+    .overview-location {
+        margin-top: 7px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .overview-location.map-mobile iframe {
+        height: 286px;
+    }
+
+    .searh-preview-card {
+        margin-top: 20px;
+    }
+
+    .searh-preview-card .check_card_head h4 {
+        font-size: 18px;
+    }
+
+    .searh-preview-card span.like-icon {
+        top: -17px;
+    }
+
+    .searh-preview-card .check_card_guest h5 {
+        font-size: 16px;
+    }
+
+    .searh-preview-card .check_card_guest p {
+        margin-top: -4px;
+        font-size: 13px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 69%;
+    }
+
+    div#sign-up-first-dialog {
+        width: 420px;
+        top: -14px;
+        position: absolute;
+        border-radius: 0;
+        left: 0;
+    }
+
+    div#sign-up-dialog {
+        width: 420px;
+        top: -14px;
+        position: absolute;
+        border-radius: 0;
+        left: 0;
+    }
+
+    .sidebar-nav-footer {
+        /*height: 259px;*/
+        /*padding-top: 83px;*/
+    }
+
+    .wizard-content .wizard > .content {
+        width: 100%;
+    }
+
+
+    .you-renting-inner {
+        padding: 20px 20px 0 30px;
+    }
+
+    .add-property-details-inner {
+        padding: 0 30px 80px 30px;
+    }
+
+    .entire-property .you-renting-inner {
+        padding: 20px 15px 0 15px;
+    }
+
+    .features-inner {
+        padding: 20px 28px 0 31px;
+    }
+
+    .preferred-tenant-inner {
+        padding: 0 30px 0 32px;
+    }
+
+    .property-description-btn label {
+        margin-bottom: 0;
+    }
+
+    .property-description-inner {
+        padding: 0 11px 80px 20px;
+    }
+
+    .file-upload-inner {
+        padding: 20px 28px 80px 29px;
+    }
+
+    .tenancy-details-inner {
+        padding: 20px 27px 0 29px;
+    }
+
+    .terms-inner {
+        padding: 0 23px 80px 29px;
+    }
+
+    .wizard-content .wizard > .actions > ul {
+
+        width: 91% !important;
+    }
+
+    .panel {
+        overflow: hidden;
+    }
+
+    .footer-as-seen-in-logos .as-seen-in-logo:nth-child(5) {
+        display: none;
+    }
+
+    .pricing-card-image {
+        width: 59%;
+        margin: 0 auto;
+        margin-top: 25px;
+    }
+
+    .main-search-inner p {
+        font-size: 13px;
+        line-height: 18px;
+        width: 70%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .line-heading h3 span {
+        font-size: 22px;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 25px;
+    }
+
+    .studio-inner h2 {
+        line-height: 1;
+        font-size: 27px;
+    }
+
+    .studio-inner {
+        padding: 50px 20px 45px;
+    }
+
+    .studio-inner p {
+        font-size: 14px;
+    }
+
+    .brand-text h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .brand-inner {
+        height: 333px;
+        margin-bottom: 5px;
+        padding-top: 26px;
+    }
+
+    .take-tour-inner h2 {
+        font-size: 25px;
+        line-height: 1;
+        padding: 0 10px;
+    }
+
+    .take-tour-inner h2 br {
+        display: none;
+    }
+
+    .take-tour-inner ul li {
+        display: block;
+    }
+
+    .take-tour-inner ul {
+
+        text-align: left;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+
+    .tenants-cities-services .col-md-4 {
+        -ms-flex: 0 0 90%;
+        flex: 0 0 90%;
+        max-width: 90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .tenants-cities-card-text h2 {
+        font-size: 25px !important;
+        margin-bottom: 5px;
+    }
+
+    .tenants-cities p br {
+        display: none;
+    }
+
+    .take-tour-services-wrap h2 {
+        font-size: 28px;
+    }
+
+    .tenants-cities-services {
+        margin: 35px 0 50px;
+    }
+
+    .tenants-cities h2 {
+        font-size: 22px;
+        min-height: auto;
+    }
+
+    .tenants-cities .tenant-cities-image svg {
+        width: 40px !important;
+    }
+
+    .take-tour-cities a {
+        font-size: 16px;
+    }
+
+    .take-tour-cities ul {
+        text-align: left;
+    }
+
+
+    .slick-track {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .tenants-cities-services .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+
+    }
+
+    .calculator-cards .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .banner-cards-inner {
+        padding: 25px;
+        margin: 0 0;
+        margin-top: -115px;
+        margin-bottom: 50px;
+    }
+
+    .hero-banner h1 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 24px;
+    }
+
+    .black-lives {
+
+        padding-bottom: 0;
+    }
+
+    .firstColumn {
+        width: 30%;
+    }
+
+    .secondColumn {
+        width: 30%;
+    }
+
+    .thirdColumn {
+        width: 30%;
+    }
+
+    .pricing-table a.btn {
+        line-height: 17px;
+        font-size: 14px;
+        display: block;
+    }
+
+    .services-partners-text p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    th.firstColumn span {
+        font-size: 18px;
+        font-family: "UberMoveTextBold", sans-serif;
+    }
+
+    th.secondColumn span {
+        font-size: 20px;
+
+    }
+
+    th.thirdColumn span {
+        font-size: 18px;
+        font-family: "UberMoveTextBold", sans-serif;
+    }
+
+    table.table tr td.firstColumn a {
+        display: none;
+        padding: 8px 5px;
+        width: 91%;
+        font-size: 14px;
+
+    }
+
+    table.table tr td.secondColumn a {
+        display: none;
+        padding: 8px 5px;
+        width: 91%;
+        font-size: 14px;
+
+    }
+
+    table.table tr td.thirdColumn a {
+        display: none;
+        padding: 8px 5px;
+        width: 91%;
+        font-size: 14px;
+
+    }
+
+    table.table.pricing-table thead th {
+
+        height: 65px;
+        font-size: 18px;
+    }
+
+    .FeatureRows br {
+        display: block;
+    }
+
+    .banner-cards-inner h4 {
+        font-size: 18px;
+    }
+
+    .hero-banner-img {
+        height: 250px;
+    }
+
+    .FeatureRows {
+
+        padding-right: 17px !important;
+
+    }
+
+    .pricing-table .card.card-body p {
+
+        font-size: 14px;
+        line-height: 21px;
+
+    }
+
+    .first-card-btn {
+        display: block;
+    }
+
+    table.table.pricing-table.card-one.mb-5 {
+        border: 2px solid #dee2e6;
+        border-top: 0;
+        border-right: 0;
+        box-shadow: none;
+    }
+
+    table.table.pricing-table.card-two.mb-5 {
+        border: 1px solid black;
+        border-top: 0;
+        border-right: 0;
+        box-shadow: none;
+    }
+
+    .pricing-cards-mobile .card-two th.FeatureRows {
+        border-top: 1px solid black;
+        color: white;
+    }
+
+    .pricing-cards-mobile table.table.pricing-table {
+        border: 1px solid #00838D;
+        border-top: 0;
+        border-right: 0;
+        box-shadow: none;
+    }
+
+    .pricing-cards-mobile .card-three th.FeatureRows {
+        border-top: 1px solid #00838D;
+        color: white;
+    }
+
+    th.firstColumn {
+        background-color: initial;
+
+    }
+
+    .pricing-cards-mobile .card-two {
+        background: black;
+        color: white;
+    }
+
+    th.secondColumn {
+        background-color: initial;
+        border-left: 1px solid darkgray;
+    }
+
+    th.secondColumn h1 {
+        color: white;
+    }
+
+    .pricing-cards-mobile .card-three {
+        background: #00838D;
+    }
+
+    th.thirdColumn {
+        background-color: initial;
+        border-left: 1px solid darkgray;
+    }
+
+    th.thirdColumn h1 {
+        color: white;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 32px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 29px;
+    }
+
+    section.property-management-banner p {
+        margin-top: 5px;
+
+    }
+
+    section.hidden-fee h2 {
+        font-size: 27px;
+        line-height: 31px;
+    }
+
+    section.property-management-payments h3 {
+        font-size: 22px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 26px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 26px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 26px;
+    }
+
+    .property-management-covered button.btn {
+        font-size: 15px;
+    }
+
+    .property-management-full-services .table tr td:nth-child(2) {
+        display: none;
+    }
+
+    .property-management-full-services .table tr th:nth-child(2) {
+        display: none;
+    }
+
+    .property-management-full-services .table tbody th {
+        width: 43%;
+    }
+
+    .other-agents-modal {
+        top: 15px;
+    }
+
+    .other-agents-modal .table tr td:nth-child(4) {
+        display: none;
+    }
+
+    .other-agents-modal .table tr th:nth-child(4) {
+        display: none;
+    }
+
+    .other-agents-modal .table thead th {
+        font-size: 15px;
+    }
+
+    .word-space {
+        word-spacing: 0;
+    }
+
+    .zazoota-colum {
+        width: 26%;
+    }
+
+    td.zazoota-colum b {
+
+        font-size: 16px;
+    }
+
+    section.property-management-banner h6 {
+
+        font-size: 11px;
+    }
+
+    section.property-management-banner a {
+        font-size: 14px;
+    }
+
+    .property-management-covered ul li img {
+
+        width: 18px;
+    }
+
+    section.property-management-banner {
+        padding: 40px 0 50px;
+
+    }
+
+    .property-management-services h4 {
+        font-size: 23px;
+    }
+
+    .property-management-covered p {
+        font-size: 14px;
+    }
+
+    .property-management-covered ul li {
+        font-size: 14px;
+    }
+
+    .property-management-payments p {
+        font-size: 14px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    section.ready-to-get-started p {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .property-management-full-services {
+
+        padding: 28px 0 25px;
+
+    }
+
+    .savings-calculator .card p {
+        line-height: 20px;
+    }
+
+    .other-agents-modal .table th, .table td {
+        font-size: 14px;
+        line-height: 21px;
+
+    }
+
+    .savings-calculator .card table tr td {
+
+        display: block;
+        width: 100%;
+        text-align: left !important;
+    }
+
+    #range_agent {
+        text-align: left;
+        text-align: -moz-left;
+        text-align: -webkit-left;
+        width: 45px !important;
+        max-width: 43px;
+    }
+
+    #range_agent_year {
+        text-align: left;
+        text-align: -moz-left;
+        text-align: -webkit-left;
+        width: 73px !important;
+    }
+
+    .savings-calculator .card table tr:last-child td:last-child {
+        margin-left: -1px;
+    }
+
+    .live-chat h4 {
+
+        font-size: 22px;
+    }
+
+    .live-chat-right {
+        padding: 30px 20px;
+    }
+
+    .contact_sidebar {
+        padding: 25px 20px;
+
+    }
+
+    .take-tour-cities ul li.list-inline-item {
+        margin: 0 5px 5px 5px;
+    }
+
+    .services-booking ul.radio-button-list li {
+        width: 48%;
+
+    }
+
+    .services-booking ul.radio-button-list li:last-child {
+        margin-right: 0;
+    }
+
+    select.form-control {
+
+        padding-right: 31px;
+    }
+
+    section.services-booking {
+        margin-top: 8px;
+    }
+
+    .services-booking-inner option {
+        font-size: 15px;
+
+    }
+
+    .services-sidebar .verified-badge.with-tip {
+        margin-top: 0;
+    }
+
+    .add-pat-testing {
+        margin: 20px 0 50px;
+        position: relative;
+    }
+
+    .add-pat-testing:before {
+        content: '';
+        position: absolute;
+        bottom: -25px;
+        left: 0;
+        border-bottom: 1px solid #eaeaea;
+        width: 100%;
+        height: 1px;
+    }
+
+    .services-booking h4 {
+        font-size: 16px;
+
+    }
+
+    #titlebar h1, #titlebar h2 {
+        font-size: 26px;
+        line-height: 1;
+        margin: 10px 0 3px 0;
+    }
+
+    #dashboard #titlebar h2 {
+        font-size: 26px;
+        margin: 0;
+    }
+
+    .profile-edit h2 {
+        padding-bottom: 14px;
+        font-size: 18px;
+    }
+
+    .change-password-row h2 {
+        padding-bottom: 14px;
+        font-size: 18px;
+    }
+
+
+    .profile-image p {
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    div#avatar-uploader .dz-message {
+        font-size: 13px;
+    }
+
+    .messages .messages-container-inner .message-by-headline span {
+        right: 22px;
+        font-size: 13px;
+    }
+
+    .messages-container-inner .messages-inbox .message-by p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .messages-headline h4 a {
+        font-size: 15px;
+    }
+
+    .messages-headline h4 a .fa {
+        font-size: 13px;
+        margin-right: 7px;
+    }
+
+    .messages-headline {
+        padding: 0 25px;
+    }
+
+    section.landlord-banner {
+        padding: 50px 0 265px;
+    }
+
+    .faqs ul li {
+        display: block;
+    }
+
+    .faqs ul li a {
+        font-size: 14px;
+        overflow-wrap: break-word;
+        display: block;
+        padding-right: 50px;
+        line-height: 20px;
+    }
+
+    section.why-advertise-zacoota h2 {
+        font-size: 24px;
+    }
+
+    .get-more-for-less h2 {
+        font-size: 24px;
+    }
+
+    .faqs h2 {
+        font-size: 24px;
+    }
+
+    section.everything-you-need h2 {
+        font-size: 22px;
+    }
+
+    .landord-pricing-cards-logos {
+        margin-left: 37px;
+    }
+
+    section.landord-pricing-cards .propsec {
+        padding: 20px 9px;
+    }
+
+    .get-more-for-less p {
+        font-size: 15px;
+    }
+
+    section.landord-pricing-cards.calculator-cards {
+        padding: 0 0 40px;
+    }
+
+    .get-more-for-less {
+        padding: 0;
+    }
+
+    .faqs {
+        padding: 0 0;
+    }
+
+    .features-inner .form-inline {
+        width: 100%;
+    }
+
+    ul#data img {
+        max-height: 208px;
+    }
+
+    .file-upload-inner p {
+        font-size: 15px;
+    }
+
+    .col-sm-2.sortable-image.text-center {
+        height: 246px;
+        margin-bottom: 0;
+    }
+
+    .login-section {
+        padding: 30px 0;
+    }
+
+    .login-section div#sign-in-dialog {
+        position: unset;
+        max-width: 90%;
+    }
+
+    .register-section {
+        padding: 30px 0;
+    }
+
+    .register-section div#sign-up-dialog {
+        position: unset;
+        max-width: 90%;
+    }
+
+    section.let-your-home-banner h3 {
+        font-size: 24px;
+    }
+
+    section.let-your-home-banner p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .let-your-home-sidebar {
+        width: 100%;
+    }
+
+    .community-stories-media-cover-inner {
+        height: 310px;
+    }
+
+    section.community-stories-content h3 {
+        font-size: 27px;
+    }
+
+    .property-management-free .black-lives-inner {
+        padding: 80px 23px 40px;
+    }
+
+    .property-management-free .black-lives-inner p {
+        width: 100%;
+    }
+
+    .calculator-cards {
+        padding-top: 30px;
+    }
+
+    .row.upgrade-card-row {
+        width: 70%;
+    }
+
+    .upgrade-cards.thank-you-upgrade .row.upgrade-card-row {
+        width: 85%;
+    }
+
+    section.upgrade-cards.thank-you-upgrade h3.headline {
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 5px;
+    }
+
+    .thank-you-upgrade p {
+        font-family: "UberMoveTextRegular", sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .review-commit p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .instarent-side-bar .property-alert p {
+        font-size: 13px;
+    }
+
+    .instarent-side-bar .property-alert {
+        padding-bottom: 4px;
+    }
+
+    .instarent-content-inners .date-alert p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .instarent-banner h1 {
+        font-size: 24px;
+    }
+
+    .text-slide .slide {
+        font-size: 24px;
+    }
+
+    .instarent-propery-details .inner .image {
+        width: 100px;
+        position: relative;
+        top: 8px;
+    }
+
+    section.how-its-work h2 {
+        font-size: 23px;
+    }
+
+    .holding-deposit-view .guarantors_tenants .action-btn {
+        display: block;
+    }
+
+    .holding-deposit-view .guarantors_tenants a {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    div#add_guarantor .guarantor-for ul li {
+        width: 49%;
+    }
+
+    .holding-deposit-landlord .guarantors_tenants.landlord_option .action-btn a {
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    .option-modal .modal-dialog {
+        max-width: 100%;
+    }
+
+    .landlord-options .btn {
+        font-size: 12px;
+    }
+
+    .landlord-options .btn:before {
+        font-size: 12px;
+        top: 10px;
+        right: 10px;
+    }
+
+    .option-modal .table tbody tr td a {
+        padding: 6px 18px;
+        font-size: 13px;
+    }
+
+    .holding-deposit-landlord .inner {
+        width: 100%;
+        border: 0;
+        padding: 0;
+        background: transparent;
+    }
+
+    .landlord-options .btn span {
+        display: block;
+    }
+
+    .option-modal .modal-content .modal-body .contract-options .proceed-btn a {
+        padding: 10px 16px;
+        font-size: 13px;
+        display: block;
+    }
+
+    .option-modal .modal-content .modal-body .no-available a {
+        font-size: 14px;
+        padding: 8px 14px;
+        display: block;
+    }
+
+    .option-modal .modal-content .modal-body .unsuited-tenants a {
+        font-size: 14px;
+        padding: 8px 8px;
+        display: block;
+    }
+
+    .custom-modal .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .custom-modal .modal-content {
+        border-radius: 0;
+        border: 0;
+        position: absolute;
+        top: 0;
+    }
+
+    .custom-modal .form-inline {
+        width: 100%;
+    }
+
+    section.landlord-title h1 {
+        font-size: 24px;
+    }
+
+    section.rent-house ul li svg {
+        display: block;
+        position: unset;
+        margin-bottom: 10px;
+    }
+
+    section.rent-house ul li p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0;
+    }
+
+    section.rent-house a.text-black {
+        width: 100%;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    .landlord-trust .start-saving {
+        min-height: 86px;
+    }
+
+    section.rent-house {
+        padding: 30px 0 20px;
+    }
+
+    section.landlord-trust {
+        padding: 25px 0;
+    }
+
+    section.smart-management {
+        padding: 25px 0 30px;
+        position: relative;
+    }
+
+    section.smart-management h2 {
+        font-size: 32px;
+        margin-bottom: 3px;
+    }
+
+    section.smart-management p {
+        font-size: 19px;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .holding-deposit-landlord .Congrat-div .wrap h6 {
+        font-size: 20px;
+    }
+
+    .landlord-options h3 {
+        font-size: 21px;
+        margin-bottom: 25px;
+    }
+
+    .application-for img {
+        width: 22px;
+    }
+
+    .application-for a .fa {
+        font-size: 16px;
+    }
+
+    .holding-deposit-landlord a.btn.edit {
+        font-size: 12px;
+        min-width: auto;
+        padding: 0;
+        border: 0;
+        top: -22px;
+        text-decoration: underline;
+    }
+
+    .referencing-options .table tr td .select-wrap {
+        width: 75%;
+    }
+
+    .add_tenant_guarantor a {
+        font-size: 15px;
+
+    }
+
+    .referencetenants .referencing-options h3 {
+        font-size: 15px;
+    }
+
+    .referencetenants h2 {
+        margin-bottom: 12px;
+        font-size: 20px;
+    }
+
+    .referencing-options {
+        margin-top: 20px;
+    }
+
+    .add_tenant_guarantor a:after {
+        top: 5px;
+        font-size: 13px;
+    }
+
+    .holding-deposit-landlord .guarantors.pro-guarantor h3 {
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .referencetenants.holding-deposit-landlord .unverified-emails .inner h3 {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+
+    .rent-now-references table.table.references-table tr td:last-child {
+        text-align: left;
+    }
+
+    .rent-now-references .inner {
+        margin-top: 5px;
+    }
+
+    .rent-now-references h2 {
+        font-size: 20px;
+    }
+
+    .references-total h3 {
+        font-size: 18px;
+    }
+
+    .rent-now-references table.table.references-table {
+
+        padding: 0;
+    }
+
+    .references-total .inner .total p {
+        font-size: 22px;
+    }
+    .contract-signing table.table.signed  tr td{
+        display: block;
+    }
+    .contract-signing .table td .action-btn {
+        float: none;
+    }
+    .google-signin img {
+        width: 19px;
+        left: 12px;
+        top: 10px;
+    }
+    .dashboard-content.profile-wrap {
+        padding-top: 20px;
+    }
+}
+
+/*max width 414*/
+@media only screen and (max-width: 414px) {
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 83%;
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 148px;
+    }
+
+    .green-card .list-star h6:after {
+        top: 51px;
+        padding-left: 34px;
+    }
+
+    div#sign-in-dialog {
+        max-width: 414px;
+    }
+
+    div#sign-up-first-dialog {
+        width: 414px;
+    }
+
+    div#sign-up-dialog {
+        width: 414px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 31px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 28px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 26px;
+        line-height: 29px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 25px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 25px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 25px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 71%;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .respond-application a {
+        display: block;
+    }
+
+
+}
+
+/*max width 400*/
+@media only screen and (max-width: 400px) {
+    table.table.pricing-table thead th {
+        height: 65px;
+        font-size: 17px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 30px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 27px;
+    }
+
+    section.property-management-banner p {
+
+        font-size: 14px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 24px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 24px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 24px;
+    }
+
+    .savings-calculator-inner {
+        padding: 40px 20px;
+    }
+
+    .my-profile label {
+        font-size: 13px;
+    }
+
+    .landord-pricing-cards-logos {
+        margin-left: 35px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 74%;
+    }
+
+    .row.upgrade-card-row {
+        width: 75%;
+    }
+}
+
+/*max width 375*/
+
+@media only screen and (max-width: 375px) {
+    .carousel-item.slick-slide.slick-current.slick-active {
+        width: 240px !important;
+        padding-left: 6px;
+    }
+
+    h2.headline {
+
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .main-search-input-item input {
+
+    }
+
+    .listing-item-content h3 {
+        font-size: 15px;
+    }
+
+    .listing-item-content span {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .new-listing-item-details h3 {
+        font-size: 15px;
+    }
+
+    .new-listing-item-details a {
+        width: 50%;
+        font-size: 12px;
+    }
+
+    .main-search-input-item {
+        padding-left: 10px;
+    }
+
+    .savings-calculator .card {
+        padding-right: 0;
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .total-savings {
+        padding: 11px 20px;
+    }
+
+    .main-search-inner h3 {
+        font-size: 22px !important;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 93%;
+    }
+
+    .terms-inner label {
+
+        font-size: 13px;
+    }
+
+    .terms-inner p {
+
+        font-size: 14px;
+    }
+
+    .agreement__button button {
+        display: block;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    button#SaveButton {
+        margin: 10px 0;
+    }
+
+    .terms-inner input[type=checkbox]:checked + label:after {
+
+        top: 11px;
+        left: 0;
+
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 130px;
+
+    }
+
+    .hero-banner h1.text-white {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .partners h3.headline {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 307px !important;
+    }
+
+    .hmo-image {
+        height: 250px !important;
+    }
+
+    .black-lives-inner h2 {
+        width: 100%;
+    }
+
+    .black-lives-inner p {
+        width: 97%;
+    }
+
+    .black-card .list-star h6:after {
+        padding-left: 24px;
+    }
+
+    .green-card .list-star h6:after {
+        top: 51px;
+        padding-left: 19px;
+    }
+
+    .services-heading h2 {
+        font-size: 23px;
+    }
+
+    .services-booking-head h3 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .services-heading h2 {
+        font-size: 22px;
+    }
+
+    .location-heading h2 {
+        font-size: 18px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 80%;
+    }
+
+    div#sign-in-dialog {
+        max-width: 375px;
+    }
+
+    div#sign-up-first-dialog {
+        width: 375px;
+    }
+
+    div#sign-up-dialog {
+        width: 375px;
+    }
+
+    .features-inner .form-inline {
+        width: 100%;
+    }
+
+    .preferred-tenant-inner .form-inline {
+        width: 100% !important;
+
+    }
+
+    .footer-as-seen-in-logos .as-seen-in-logo:nth-child(1) {
+        display: none;
+    }
+
+    .line-heading h3 span {
+        font-size: 22px;
+    }
+
+    .line-heading h3:before {
+        width: 29%;
+    }
+
+    .line-heading h3:after {
+        width: 29%;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 23px;
+    }
+
+    .studio-inner h2 {
+        line-height: 1;
+        font-size: 25px;
+    }
+
+    .studio-inner h6 {
+
+        font-size: 13px;
+        margin-top: -5px;
+    }
+
+    .studio-inner p {
+        font-size: 13px;
+    }
+
+    .brand-text h3 {
+        font-size: 19px;
+        margin-bottom: 0;
+    }
+
+    .brand-text p {
+        margin-top: 9px;
+        line-height: 18px;
+        font-size: 13px;
+    }
+
+    .take-tour-inner h2 {
+        font-size: 22px;
+        line-height: 1;
+        padding: 0 10px;
+    }
+
+    .take-tour-inner ul li a {
+
+        font-size: 14px;
+    }
+
+    .tenants-cities h2 {
+        font-size: 21px;
+    }
+
+    .take-tour-cities a {
+        font-size: 16px;
+    }
+
+    .take-tour-cities ul li.list-inline-item {
+        margin: 0 10px 0 10px;
+    }
+
+    .tenants-cities p {
+        font-size: 14px;
+    }
+
+    .hero-banner h1 {
+        font-size: 24px;
+        line-height: 30px;
+
+        padding-bottom: 10px;
+
+    }
+
+    .black-lives-inner h2 {
+        font-size: 22px;
+    }
+
+    table.table.pricing-table thead th {
+        height: 65px;
+        font-size: 16px;
+    }
+
+    .banner-cards-inner h4 {
+        font-size: 17px;
+    }
+
+    .services-partners-text p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .first-card-btn a {
+        width: 45% !important;
+
+    }
+
+    section.property-management-banner h3 {
+        font-size: 28px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 26px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 24px;
+        line-height: 27px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 23px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 23px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 23px;
+    }
+
+    section.property-management-payments h3 {
+        font-size: 21px;
+    }
+
+    .savings-calculator-inner {
+        padding: 40px 15px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 23px;
+        line-height: 26px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 25px;
+    }
+
+    .main-search-inner p {
+        width: 75%;
+    }
+
+    .services-booking ul.radio-button-list li {
+        width: 47%;
+    }
+
+    .media-photo.media-round {
+        width: 47%;
+        height: 132px;
+    }
+
+    #titlebar h1, #titlebar h2 {
+        font-size: 25px;
+    }
+
+    #dashboard #titlebar h2 {
+        font-size: 25px;;
+    }
+
+    .header-account .container-fluid {
+        padding: 0 20px;
+    }
+
+    .landord-pricing-cards-logos {
+        margin-left: 18px;
+    }
+
+    .property-sortable .col-sm-2 {
+        -ms-flex: 0 0 45%;
+        flex: 0 0 45%;
+        max-width: 45%;
+    }
+
+    .row.upgrade-card-row {
+        width: 80%;
+    }
+
+    .steps li:after {
+        top: 37px;
+        left: -8px;
+        font-size: 29px;
+    }
+
+    section.landlord-title h1 {
+        font-size: 22px;
+    }
+
+    section.rent-house ul li h5 {
+        font-size: 17px;
+    }
+
+    .landlord-trust .start-saving {
+        min-height: 77px;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+
+    section.smart-management h2 {
+        font-size: 30px;
+        margin-bottom: 3px;
+    }
+
+    section.smart-management p {
+        font-size: 18px;
+    }
+
+    section.tenants-main .search-home h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .guarantors_tenants.landlord_option {
+        padding: 20px 10px;
+    }
+
+    .holding-deposit-landlord .table tr td span {
+        font-size: 14px;
+        width: 70%;
+    }
+
+    .respond-application a {
+        display: initial;
+    }
+
+    .referencing-options .table tr td .select-wrap {
+        width: 90%;
+    }
+
+    .referencetenants .unverified-emails .inner .table tbody tr td a.btn.update {
+        width: 77px;
+        font-size: 13px;
+        padding: 7px 0;
+    }
+}
+
+/*max width 360*/
+@media only screen and (max-width: 360px) {
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 97%;
+    }
+
+    .krajee-default.file-preview-frame .kv-file-content {
+        width: 123px;
+    }
+
+    .black-card .list-star h6:after {
+        top: 35px;
+        padding-left: 13px;
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 279px !important;
+    }
+
+    .green-card .list-star h6:after {
+        top: 51px;
+        padding-left: 15px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 85%;
+    }
+
+    div#sign-in-dialog {
+        max-width: 360px;
+    }
+
+    div#sign-up-first-dialog {
+        width: 360px;
+    }
+
+    div#sign-up-dialog {
+        width: 360px;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 22px;
+    }
+
+    .tenants-cities-card-text h2 {
+        font-size: 23px !important;
+        margin-bottom: 5px;
+    }
+
+    .studio-inner h2 {
+        line-height: 1;
+        font-size: 23px;
+    }
+
+    .as-seen-in-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hero-banner h1 {
+        font-size: 23px;
+        line-height: 27px;
+        padding-bottom: 8px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 21px;
+    }
+
+    .first-card-btn a {
+        width: 47% !important;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 27px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 25px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 22px;
+    }
+
+    .property-management-full-services .table thead th {
+        line-height: 19px;
+        font-size: 15px;
+    }
+
+    .property-management-full-services .table tbody th {
+        font-size: 13px;
+    }
+
+    .savings-calculator-inner h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .main-search-inner p {
+
+        width: 80%;
+
+    }
+
+    .row.upgrade-card-row {
+        width: 85%;
+    }
+
+    section.landlord-title h1 {
+        font-size: 21px;
+    }
+
+    .start-saving .content {
+        width: 62%;
+        padding: 12px 15px 0;
+    }
+
+    section.landlord-trust h3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+    .holding-deposit-landlord .table tr td span {
+        width: 80%;
+    }
+
+    .landlord-options .btn {
+        padding: 10px 20px 10px 10px;
+    }
+
+    .landlord-options .btn:before {
+        font-size: 11px;
+        top: 12px;
+        right: 3px;
+    }
+
+    .landlord-options h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .add_tenant_guarantor a {
+        font-size: 14px;
+    }
+
+    .referencetenants .referencing-options h3 {
+        font-size: 14px;
+    }
+
+    .referencing-options .table tr td .select-wrap {
+        width: 95%;
+    }
+}
+
+
+/* amx width 320px*/
+@media only screen and (max-width: 320px) {
+
+    h2.headline {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .savings-calculator .card table tr td span {
+        font-size: 13px !important;
+    }
+
+    .carousel-item.slick-slide.slick-current.slick-active {
+        width: 240px !important;
+    }
+
+    .check_card_head p {
+        margin: 0;
+        line-height: 18px;
+        font-size: 12px;
+    }
+
+    .check_card_body h6 {
+        font-size: 15px;
+    }
+
+    .other-payment-options span {
+        font-size: 14px;
+    }
+
+    ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 66%;
+    }
+
+    .heading-location h2 {
+        font-size: 18px;
+
+    }
+
+    .heading-location h4 {
+        font-size: 13px;
+    }
+
+    .overview_description button {
+
+        font-size: 13px;
+    }
+
+    .other-options .form-check-label {
+        font-size: 13px;
+    }
+
+    .krajee-default.file-preview-frame:not([data-template=audio]) .kv-file-content {
+        width: 103px;
+    }
+
+    .add-listing-heading h2 {
+        font-size: 15px;
+    }
+
+    .you-renting-inner a label {
+        font-size: 13px;
+    }
+
+    .post-code-row p.btn {
+        font-size: 13px;
+    }
+
+    .features-inner p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .preferred-tenant-inner p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .file-upload-inner p {
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .agreement__button button {
+        display: block;
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 14px;
+    }
+
+    section.our-service-steps .heading-text.text-center {
+        margin: 0 0 15px;
+    }
+
+    section.our-service-steps h3.headline {
+        font-size: 22px;
+    }
+
+    section.our-price-cards h3.headline {
+        font-size: 22px;
+    }
+
+    .our-price-card-sub-heading h5 {
+        font-size: 18px;
+    }
+
+    .black-card .list-star h6:after {
+        top: 52px;
+        padding-left: 19px;
+        font-size: 14px;
+    }
+
+    .green-card .list-star h6 br {
+        display: none;
+    }
+
+    .green-card .list-star h6:after {
+        top: 53px;
+        padding-left: 15px;
+        font-size: 14px;
+    }
+
+    .additional_services h3 {
+        font-size: 22px;
+
+    }
+
+    .hmo-gallery-mobile .content-slider li.lslide.active {
+        width: 250px !important;
+    }
+
+    .hmo-price {
+        display: block;
+    }
+
+    .hmo-price .price-body p {
+        font-size: 13px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .black-lives-inner {
+        padding: 80px 20px 40px;
+    }
+
+    .black-lives-inner h2 {
+        font-size: 18px;
+    }
+
+    .black-lives-inner p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .slbImageWrap {
+        left: -7px;
+    }
+
+    button.slbCloseBtn {
+        margin-right: 11px;
+    }
+
+    .searh-preview-card .check_card {
+        padding: 18px 13px;
+    }
+
+    .shared ul.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+        width: 90%;
+    }
+
+    div#sign-in-dialog {
+        max-width: 320px;
+    }
+
+    div#sign-up-first-dialog {
+        width: 320px;
+    }
+
+    div#sign-up-dialog {
+        width: 320px;
+    }
+
+    .main-search-inner h3 {
+        font-size: 19px !important;
+    }
+
+    .line-heading h3 span {
+        font-size: 20px;
+    }
+
+    section.price-cards.price-card-free h2 {
+        font-size: 20px;
+    }
+
+    section.price-cards.price-card-free p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .price-card-free ul li {
+
+        font-size: 13px;
+    }
+
+    .price-card-free a.text-black {
+        display: block;
+        width: 136px;
+        font-size: 13px;
+    }
+
+    .studio-inner h2 {
+
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+
+    .studio-inner h6 {
+        font-size: 12px;
+        margin-top: -2px;
+    }
+
+    .studio-inner a {
+        padding: 4px;
+        width: 177px;
+        margin-top: 15px;
+        font-size: 13px;
+
+    }
+
+    .tenants-cities-card-text h2 {
+        font-size: 21px !important;
+        margin-bottom: 5px;
+    }
+
+    .tenants-cities-card-text ul li {
+
+        font-size: 14px;
+    }
+
+    .tenants-cities h2 {
+        font-size: 19px;
+    }
+
+    .tenants-cities p {
+        font-size: 13px;
+    }
+
+    .tenants-cities h2 {
+        font-size: 17px;
+    }
+
+    .tenants-cities p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .take-tour-cities a {
+        font-size: 15px;
+    }
+
+    .take-tour-cities ul li.list-inline-item {
+        margin: 0 4px 0 4px;
+    }
+
+    .hero-banner h1 {
+        font-size: 19px;
+        line-height: 22px;
+
+    }
+
+    .banner-cards-inner ul li {
+
+        font-size: 13px;
+    }
+
+    .hero-banner-btn button {
+        font-size: 13px;
+        height: 42px;
+
+    }
+
+    table.table.pricing-table thead th {
+
+        font-size: 14px;
+    }
+
+    th.firstColumn span {
+        font-size: 17px;
+    }
+
+    th.secondColumn span {
+        font-size: 17px;
+    }
+
+    th.thirdColumn span {
+        font-size: 17px;
+    }
+
+    table.table tr td.firstColumn a {
+        padding: 8px 3px;
+        width: 100%;
+        font-size: 12px;
+    }
+
+    table.table tr td.secondColumn a {
+        padding: 8px 4px;
+        width: 100%;
+        font-size: 12px;
+    }
+
+    table.table tr td.thirdColumn a {
+        padding: 8px 4px;
+        width: 100%;
+        font-size: 12px;
+    }
+
+    .pricing-table a.btn {
+
+        font-size: 13px;
+
+    }
+
+    .FeatureRows {
+        padding-right: 12px !important;
+        padding-left: 13px !important;
+    }
+
+    .hmo-btn a {
+        width: 56%;
+
+    }
+
+    .first-card-btn a {
+        width: 49% !important;
+        font-size: 13px;
+    }
+
+    section.property-management-banner h3 {
+        font-size: 24px;
+    }
+
+    section.property-management-banner .gradient-text1 {
+        font-size: 23px;
+    }
+
+    section.property-management-banner p {
+        font-size: 13px;
+    }
+
+    section.hidden-fee h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .property-management-services h4 {
+        font-size: 22px;
+    }
+
+    .property-management-full-services h2 {
+        font-size: 20px;
+    }
+
+    .property-management-payments h2 {
+        font-size: 20px;
+    }
+
+    .property-management-covered h2 {
+        font-size: 20px;
+    }
+
+    section.property-management-payments h3 {
+        font-size: 19px;
+    }
+
+    .property-management-covered button.btn {
+        font-size: 13px;
+
+    }
+
+    .property-management-covered {
+        padding: 35px 0;
+    }
+
+    .property-management-payments {
+        padding: 0 0 16px;
+    }
+
+    section.ready-to-get-started h2 {
+        font-size: 21px;
+
+    }
+
+    section.ready-to-get-started p {
+
+        font-size: 13px;
+    }
+
+    .media-photo.media-round {
+        width: 47%;
+        height: 121px;
+    }
+
+    .row.upgrade-card-row {
+        width: 100%;
+    }
+}

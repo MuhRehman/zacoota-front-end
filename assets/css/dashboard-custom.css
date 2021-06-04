@@ -1,0 +1,44 @@
+#dashboard {
+    background-color: #ffffff;
+}
+
+.dashboard #logo {
+    background-color: #f7f7f7;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.12);
+}
+
+.dashboard-nav {
+    background-color: #f7f7f7;
+    color: black;
+}
+
+.dashboard-nav ul:before {
+    color: black;
+}
+
+.dashboard-nav ul li.active,
+.dashboard-nav ul li:hover {
+    border-color: black;
+    color: black;
+    font-weight: 600;
+}
+
+.dashboard-nav ul li a {
+    color: black;
+}
+
+.dashboard-nav ul li a:hover {
+    color: #cecece;
+}
+
+.dashboard-content {
+    padding: 20px 20px;
+}
+
+header.fullwidth.dashboard .container {
+    padding-right: 0px;
+}
+
+#dashboard #titlebar {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,61 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mattfried/Desktop/ficsfonts Folder/Document fonts/AdobeFnt21.lst
+FileLength:1143
+FileModTime:576591922
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:adineuePRO-Regular
+FamilyName:adineue PRO
+StyleName:Regular
+MenuName:adineue PRO
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:adineue PRO
+WritingScript:Roman
+OutlineFileName:/Users/mattfried/Desktop/ficsfonts Folder/Document fonts/adineuePRO-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:191912
+FileModTime:433460482
+NameArray:0,Mac,4,adineue PRO
+NameArray:0,Win,1,adineue PRO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:adineuePRO-Black
+FamilyName:adineue PRO Black
+StyleName:Regular
+MenuName:adineue PRO Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:adineue PRO Black
+WritingScript:Roman
+OutlineFileName:/Users/mattfried/Desktop/ficsfonts Folder/Document fonts/adineuePRO-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186720
+FileModTime:433460482
+NameArray:0,Mac,4,adineue PRO Black
+NameArray:0,Win,1,adineue PRO Black
+%EndFont
+

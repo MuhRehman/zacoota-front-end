@@ -1,0 +1,263 @@
+/**
+@Description Custom CSS code
+@Author Khuram Qadeer.
+ */
+#sortable_placeholder {
+    border: 2px dashed rgba(128, 128, 128, 0.37) !important;
+    text-align: center;
+    margin: 5px;
+}
+
+#sortable_placeholder #drop_here {
+    padding: 50px;
+    text-align: center;
+    color: rgba(128, 128, 128, 0.37);
+    font-size: 15px;
+}
+
+.err {
+    color: red;
+    font-size: 13px;
+}
+
+.rotate_0 {
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari and Chrome */
+}
+
+.rotate_90 {
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Safari and Chrome */
+}
+
+.rotate_180 {
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Safari and Chrome */
+
+}
+
+.rotate_270 {
+    transform: rotate(270deg);
+    -ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270deg); /* Safari and Chrome */
+}
+
+/*
+Custom Switch
+@Author Khuram Qadeer.
+*/
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: #01838d;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/*close switch*/
+
+#yt_data .col-md-6 {
+    margin-top: 10px;
+}
+
+.pagination .page-link {
+    color: black;
+    padding: 10px !important;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.pagination .page-link:hover,
+.pagination .page-item.active .page-link {
+    color: white;
+    background: black;
+    border-color: black;
+}
+
+/*map*/
+#view_map {
+    height: 100%;
+}
+
+#view_map {
+    box-shadow: 0px 0px 10px -3px;
+}
+
+/*map window info for property*/
+/*map pin card*/
+.map-pin-card {
+    width: 247px;
+    position: relative;
+    /*margin: 19px auto;*/
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.28) 0px 8px 28px;
+    color: rgb(34, 34, 34);
+
+}
+
+.map-pin-card .carousel-control-prev-icon, .carousel-control-next-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%;
+    background: black;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 1;
+    background-image: none !important;
+    text-align: center;
+}
+
+.map-pin-card img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 185px;
+    object-fit: cover;
+}
+
+.map-pin-card span.like-icon {
+    color: #00838D;
+    font-size: 19px;
+    position: absolute;
+    z-index: 101;
+    right: 7px;
+    top: 0px;
+    background-color: transparent;
+    display: block;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+    transition: all 0.4s;
+}
+
+.map-pin-card p {
+    font-size: 14px;
+    line-height: 17px;
+    font-family: "UberMoveTextRegular";
+    color: #707070;
+    background: white;
+    margin-bottom: 5px;
+}
+
+.map-pin-card-details {
+    padding: 10px 20px 20px;
+}
+
+.map-pin-card-details .pricing h4 span {
+    color: #707070;
+    font-family: "UberMoveTextRegular";
+    font-weight: 500;
+}
+
+.map-pin-card-property-detail ul.list-inline {
+    margin: 0;
+}
+
+.map-pin-card-property-detail ul li.list-inline-item {
+    color: #707070;
+    font-size: 14px;
+    padding: 0;
+    padding-right: 6px;
+}
+
+.map-pin-card-property-detail ul li::after {
+    content: "•";
+    font-size: 14px;
+    position: relative;
+    top: 0px;
+    left: 7px;
+}
+
+.map-pin-card-property-detail ul li:last-child::after {
+    display: none;
+}
+
+.map-pin-card-property-type p {
+    color: black;
+    font-family: "UberMoveTextMedium", sans-serif;
+}
+
+.map-pin-card-details .pricing{
+    position: unset;
+}
+.map-pin-card-details .pricing h4{
+    font-size: 1.5rem;
+}
+.gm-style-iw.gm-style-iw-c {
+    padding: 0;
+
+}
+.gm-style-iw-d {
+    overflow: auto !important;
+}
+.gm-style-iw + div {display: none;}
+
+.gm-ui-hover-effect {
+    display: none !important;
+}
+
+/*end property window info map*/
+
+.vue__time-picker{
+    width: 100% !important;
+}
+.vue__time-picker .dropdown ul li:not([disabled]).active, .vue__time-picker .dropdown ul li:not([disabled]).active:hover, .vue__time-picker .dropdown ul li:not([disabled]).active:focus{
+    background: #00838D ;
+}
