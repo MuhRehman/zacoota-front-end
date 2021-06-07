@@ -247,6 +247,7 @@
 <script src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fc5035049aea956"></script>
 <script  src="assets/js/lightslider.js"></script>
 <script src="assets/scripts/range-custom-script.js"></script>
+<script src="assets/scripts/custom.js"></script>
 <!--light box -->
 <script  src="assets/js/simpleLightbox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/accounting.js/0.4.1/accounting.min.js"></script>

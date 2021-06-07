@@ -1875,6 +1875,130 @@ include('header.php');
         </div>
     </div>
 </section>
+
+<!-- ==============================================================-Code-Start- -->
+<section class="h-advertising">
+    <div class="container-fluid">
+    
+    <h1 class="pt-4 pb-4 mt-5 text-center">Advertising with</h1>
+<div class="slider-thumbnails">
+    <div id="sync2" class="owl-carousel owl-theme">
+  <div class="item">
+    <h1>
+        
+    1.   Choose 
+                        
+    </h1></div>
+  <div class="item">
+    <h1>
+                            2. Post
+                        </h1></div>
+  <div class="item">
+    <h1>
+        
+    3. Manage       
+                        
+    </h1></div>
+  <div class="item">
+    <h1>
+        
+    4. Start hiring
+                        
+    </h1></div>
+
+</div>
+</div>
+
+<div id="sync1" class="owl-carousel owl-theme">
+  <div class="item">
+
+  <div  class="" style="opacity: 1;">
+                            <div class="slider-single-item-content row">
+                            <div class="col-md-6">
+                                   <img class="mx-auto m-5 d-block" src="assets/images/section-images/laptop.png" alt="">
+                                </div>   
+                            <div class="col-md-6">
+                                <div class="text-content m-5 pt-5">
+
+                                    <h3>Start hiring</h3>
+                                    <p>
+                                        Manage your recruitment on-the-go with our dedicated mobile site.
+                                    </p>
+                                </div>
+                                </div>
+
+                             
+                            </div>
+                        </div>
+</div>
+  <div class="item">
+  <div  class="" style="opacity: 1;">
+                            <div class="slider-single-item-content row">
+                            <div class="col-md-6">
+                                   <img class="mx-auto m-5 d-block" src="assets/images/section-images/iphone-calendar-pick-outlook.png" alt="">
+                                </div>   
+                            <div class="col-md-6">
+                                <div class="text-content m-5 pt-5">
+
+                                    <h3>Start hiring</h3>
+                                    <p>
+                                        Manage your recruitment on-the-go with our dedicated mobile site.
+                                    </p>
+                                </div>
+                                </div>
+
+                             
+                            </div>
+                        </div>
+</div>
+  <div class="item">
+  <div  class="" style="opacity: 1;">
+                            <div class="slider-single-item-content row">
+                            <div class="col-md-6">
+                                   <img class="mx-auto m-5 d-block" src="assets/images/section-images/iphone-calendar-pick-outlook.png" alt="">
+                                </div>   
+                            <div class="col-md-6">
+                                <div class="text-content m-5 pt-5">
+
+                                    <h3>Start hiring</h3>
+                                    <p>
+                                        Manage your recruitment on-the-go with our dedicated mobile site.
+                                    </p>
+                                </div>
+                                </div>
+
+                             
+                            </div>
+                        </div>
+</div>
+  <div class="item">
+  <div  class="" style="opacity: 1;">
+                            <div class="slider-single-item-content row">
+                            <div class="col-md-6">
+                                   <img class="mx-auto m-5 d-block" src="assets/images/section-images/iphone-calendar-pick-outlook.png" alt="">
+                                </div>   
+                            <div class="col-md-6">
+                                <div class="text-content m-5 pt-5">
+
+                                    <h3>Start hiring</h3>
+                                    <p>
+                                        Manage your recruitment on-the-go with our dedicated mobile site.
+                                    </p>
+                                </div>
+                                </div>
+
+                             
+                            </div>
+                        </div>
+</div>
+
+</div>
+</div>
+
+
+</section>
+<!-- ==============================================================-Code-End- -->
+
 <script>
 
     //Now it will not throw error, even if called multiple times.
@@ -1961,6 +2085,10 @@ include('header.php');
             });
         })
     }, 1000);
+
+    // ----------------------------------------------------------------code
+  
+    // ----------------------------------------------------------------code
 </script>
 
 

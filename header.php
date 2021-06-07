@@ -22,6 +22,7 @@
 
     <link rel="stylesheet" href="./theme/css/style.css">
     <!--    <link rel="stylesheet" href="./theme/css/main-color.css" id="colors">-->
+    <link rel="stylesheet" href="./assets/css/mystyle.css">
     <link rel="stylesheet" href="./assets/css/custom.css">
     <link rel="stylesheet" href="./assets/css/simpleLightbox.min.css">
     <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css">
@@ -39,6 +40,7 @@
     <link type="text/css" rel="stylesheet" href="assets/css/style.css">
     <link type="text/css" rel="stylesheet" href="assets/css/frontend.css">
     <link type="text/css" rel="stylesheet" href="assets/css/responsive.css">
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -47,6 +49,8 @@
     <script src="https://js.stripe.com/v3/"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-steps/1.1.0/jquery.steps.min.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://rawgit.com/Blogg-code/OwlCarousel/master/v2.3.4.js"></script>
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js?ver=1.8.1" id="slick-js" defer="defer" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
